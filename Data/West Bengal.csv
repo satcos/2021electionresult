@@ -9,15 +9,15 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 1,Mekliganj,8,GOLAPI ROY,Independent,508,3,511,0.26
 1,Mekliganj,9,SUBHASH BARMAN,Independent,953,2,955,0.48
 1,Mekliganj,10,NOTA,None of the Above,2442,5,2447,1.23
-2,Mathabhanga,1,Ashok Barman,Communist Party of India  (Marxist),7155,0,7155,3.51
-2,Mathabhanga,2,Girindra Nath Barman,All India Trinamool Congress,83939,0,83939,41.16
-2,Mathabhanga,3,Sushil Barman,Bharatiya Janata Party,106970,0,106970,52.46
-2,Mathabhanga,4,Kangsa Raj Barman,Kamatapur People’s Party (United),1249,0,1249,0.61
-2,Mathabhanga,5,Bikash Barman,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),558,0,558,0.27
-2,Mathabhanga,6,Ratan Barman,Amra Bangalee,460,0,460,0.23
-2,Mathabhanga,7,Animesh Mohanta,Independent,1108,0,1108,0.54
-2,Mathabhanga,8,Haradhan Roy,Independent,1123,0,1123,0.55
-2,Mathabhanga,9,NOTA,None of the Above,1364,0,1364,0.67
+2,Mathabhanga,1,Ashok Barman,Communist Party of India  (Marxist),7553,165,7718,3.6
+2,Mathabhanga,2,Girindra Nath Barman,All India Trinamool Congress,86470,645,87115,40.67
+2,Mathabhanga,3,Sushil Barman,Bharatiya Janata Party,112146,1103,113249,52.87
+2,Mathabhanga,4,Kangsa Raj Barman,Kamatapur People’s Party (United),1282,7,1289,0.6
+2,Mathabhanga,5,Bikash Barman,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),582,7,589,0.27
+2,Mathabhanga,6,Ratan Barman,Amra Bangalee,481,5,486,0.23
+2,Mathabhanga,7,Animesh Mohanta,Independent,1144,3,1147,0.54
+2,Mathabhanga,8,Haradhan Roy,Independent,1166,1,1167,0.54
+2,Mathabhanga,9,NOTA,None of the Above,1431,12,1443,0.67
 3,COOCHBEHAR UTTAR,1,NAGENDRA NATH ROY,All India Forward Bloc,11232,243,11475,4.7
 3,COOCHBEHAR UTTAR,2,BINAY KRISHNA BARMAN,All India Trinamool Congress,104823,1045,105868,43.4
 3,COOCHBEHAR UTTAR,3,SUKUMAR ROY,Bharatiya Janata Party,118656,1827,120483,49.4
@@ -108,15 +108,15 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 12,Alipurduars,8,NIKHIL CHANDRA RAIBIR,Independent,2333,18,2351,1.06
 12,Alipurduars,9,RINKU GHOSH,Independent,1384,9,1393,0.63
 12,Alipurduars,10,NOTA,None of the Above,1950,31,1981,0.89
-13,Falakata,1,KSHITISH CHANDRA RAY,Communist Party of India  (Marxist),10496,0,10496,4.81
-13,Falakata,2,DIPAK BARMAN,Bharatiya Janata Party,101833,0,101833,46.67
-13,Falakata,3,SUBHASH CHANDRA ROY,All India Trinamool Congress,98181,0,98181,44.99
-13,Falakata,4,TAPAN ADHIKARI,Samajwadi Jan Parishad,1367,0,1367,0.63
-13,Falakata,5,TARANI ROY,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),608,0,608,0.28
-13,Falakata,6,BIMAL ROY,Amra Bangalee,446,0,446,0.2
-13,Falakata,7,DIPAK CHANDRA MANDAL (SANTOSH),Independent,1675,0,1675,0.77
-13,Falakata,8,SWAPAN ROY,Independent,1639,0,1639,0.75
-13,Falakata,9,NOTA,None of the Above,1964,0,1964,0.9
+13,Falakata,1,KSHITISH CHANDRA RAY,Communist Party of India  (Marxist),10496,276,10772,4.89
+13,Falakata,2,DIPAK BARMAN,Bharatiya Janata Party,101833,1160,102993,46.71
+13,Falakata,3,SUBHASH CHANDRA ROY,All India Trinamool Congress,98181,822,99003,44.9
+13,Falakata,4,TAPAN ADHIKARI,Samajwadi Jan Parishad,1367,10,1377,0.62
+13,Falakata,5,TARANI ROY,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),608,5,613,0.28
+13,Falakata,6,BIMAL ROY,Amra Bangalee,446,3,449,0.2
+13,Falakata,7,DIPAK CHANDRA MANDAL (SANTOSH),Independent,1675,3,1678,0.76
+13,Falakata,8,SWAPAN ROY,Independent,1639,6,1645,0.75
+13,Falakata,9,NOTA,None of the Above,1964,6,1970,0.89
 14,Madarihat,1,UTTAM BARUA,Bahujan Samaj Party,1687,9,1696,1.02
 14,Madarihat,2,PANCHU ORAON,National People's Party,1261,11,1272,0.76
 14,Madarihat,3,MANOJ TIGGA,Bharatiya Janata Party,89913,805,90718,54.35
@@ -125,15 +125,15 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 14,Madarihat,6,VIVEK PRADEEP TETE,Bhartiya Tribal Party,1536,4,1540,0.92
 14,Madarihat,7,SUDHIST BARAIK,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),961,6,967,0.58
 14,Madarihat,8,NOTA,None of the Above,2607,15,2622,1.57
-15,Dhupguri,1,PRADIP KUMAR ROY,Communist Party of India  (Marxist),7411,0,7411,5.41
-15,Dhupguri,2,BISHNU PADA RAY,Bharatiya Janata Party,62193,0,62193,45.4
-15,Dhupguri,3,BEDODYUTI ROY,Bahujan Samaj Party,1316,0,1316,0.96
-15,Dhupguri,4,MITALI ROY,All India Trinamool Congress,60292,0,60292,44.02
-15,Dhupguri,5,DHIRANJAN ROY,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1058,0,1058,0.77
-15,Dhupguri,6,SUKUMAR ROY,Kamatapur People’s Party (United),1377,0,1377,1.01
-15,Dhupguri,7,SUJAN BARMAN,Independent,693,0,693,0.51
-15,Dhupguri,8,HRISHIKESH ROY,Independent,1332,0,1332,0.97
-15,Dhupguri,9,NOTA,None of the Above,1304,0,1304,0.95
+15,Dhupguri,1,PRADIP KUMAR ROY,Communist Party of India  (Marxist),12856,251,13107,5.72
+15,Dhupguri,2,BISHNU PADA RAY,Bharatiya Janata Party,103533,1155,104688,45.65
+15,Dhupguri,3,BEDODYUTI ROY,Bahujan Samaj Party,2171,7,2178,0.95
+15,Dhupguri,4,MITALI ROY,All India Trinamool Congress,99293,1040,100333,43.75
+15,Dhupguri,5,DHIRANJAN ROY,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1604,9,1613,0.7
+15,Dhupguri,6,SUKUMAR ROY,Kamatapur People’s Party (United),2144,11,2155,0.94
+15,Dhupguri,7,SUJAN BARMAN,Independent,1090,6,1096,0.48
+15,Dhupguri,8,HRISHIKESH ROY,Independent,2167,2,2169,0.95
+15,Dhupguri,9,NOTA,None of the Above,1976,8,1984,0.87
 16,Maynaguri,1,Kaushik Roy,Bharatiya Janata Party,113928,1378,115306,48.84
 16,Maynaguri,2,Ganesh Mandal,Bahujan Samaj Party,1539,11,1550,0.66
 16,Maynaguri,3,Naresh Chandra Roy,Revolutionary Socialist Party,5592,168,5760,2.44
@@ -155,39 +155,39 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 17,Jalpaiguri,9,HARIDAS BISWAS,Independent,949,13,962,0.43
 17,Jalpaiguri,10,HAREKRISHNA SARKAR,Independent,1142,5,1147,0.51
 17,Jalpaiguri,11,NOTA,None of the Above,3334,47,3381,1.5
-18,Rajganj,1,KHAGESWAR ROY,All India Trinamool Congress,102689,0,102689,48.66
-18,Rajganj,2,RATAN KUMAR ROY,Communist Party of India  (Marxist),11701,0,11701,5.54
-18,Rajganj,3,SANTI KISHOR BARARI,Bahujan Samaj Party,1486,0,1486,0.7
-18,Rajganj,4,SUPEN ROY,Bharatiya Janata Party,86648,0,86648,41.06
-18,Rajganj,5,UDAY ROY,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1582,0,1582,0.75
-18,Rajganj,6,TAPATI ROY (BARMAN),Kamatapur People’s Party (United),1838,0,1838,0.87
-18,Rajganj,7,NIRODE CHANDRA ADHIKARY,Amra Bangalee,828,0,828,0.39
-18,Rajganj,8,DIGBIJAY MANDAL,Independent,1133,0,1133,0.54
-18,Rajganj,9,NOTA,None of the Above,3130,0,3130,1.48
-19,Dabgram-Fulbari,1,Goutam Deb,All India Trinamool Congress,52433,0,52433,36.18
-19,Dabgram-Fulbari,2,Dilip Singh,Communist Party of India  (Marxist),9055,0,9055,6.25
-19,Dabgram-Fulbari,3,Radhakrishna Namadas,Bahujan Samaj Party,821,0,821,0.57
-19,Dabgram-Fulbari,4,Sikha Chatterjee,Bharatiya Janata Party,77392,0,77392,53.41
-19,Dabgram-Fulbari,5,Amitav Naskar,Republican Party of India (A),534,0,534,0.37
-19,Dabgram-Fulbari,6,Maniul Islam,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),239,0,239,0.16
-19,Dabgram-Fulbari,7,Shambhu Sutradhar,Amra Bangalee,375,0,375,0.26
-19,Dabgram-Fulbari,8,Maheswar Barman,Independent,847,0,847,0.58
-19,Dabgram-Fulbari,9,Rakhi Mandal,Independent,661,0,661,0.46
-19,Dabgram-Fulbari,10,Subash Biswas,Independent,660,0,660,0.46
-19,Dabgram-Fulbari,11,NOTA,None of the Above,1894,0,1894,1.31
-20,Mal,1,BULU CHIK BARAIK,All India Trinamool Congress,51727,389,52116,45.03
-20,Mal,2,MANU ORAON,Communist Party of India  (Marxist),5256,132,5388,4.66
-20,Mal,3,MAHESH BAGEY,Bharatiya Janata Party,51717,515,52232,45.13
-20,Mal,4,GITA ORAON,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1900,8,1908,1.65
-20,Mal,5,BABLU MAJHI,Independent,1160,5,1165,1.01
-20,Mal,6,NOTA,None of the Above,2920,11,2931,2.53
-21,Nagrakata,1,PUNA BHENGRA,Bharatiya Janata Party,24877,0,24877,50.7
-21,Nagrakata,2,JOSEPH MUNDA,All India Trinamool Congress,18367,0,18367,37.43
-21,Nagrakata,3,SUKBIR SUBBA,Indian National Congress,2344,0,2344,4.78
-21,Nagrakata,4,BENAM ORAON,Progressive People's Party,497,0,497,1.01
-21,Nagrakata,5,ASHAN TIRKEY,Independent,474,0,474,0.97
-21,Nagrakata,6,ROBAT MUNDA,Independent,990,0,990,2.02
-21,Nagrakata,7,NOTA,None of the Above,1518,0,1518,3.09
+18,Rajganj,1,KHAGESWAR ROY,All India Trinamool Congress,103587,1054,104641,48.5
+18,Rajganj,2,RATAN KUMAR ROY,Communist Party of India  (Marxist),11897,211,12108,5.61
+18,Rajganj,3,SANTI KISHOR BARARI,Bahujan Samaj Party,1498,12,1510,0.7
+18,Rajganj,4,SUPEN ROY,Bharatiya Janata Party,87822,1046,88868,41.19
+18,Rajganj,5,UDAY ROY,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1590,15,1605,0.74
+18,Rajganj,6,TAPATI ROY (BARMAN),Kamatapur People’s Party (United),1851,9,1860,0.86
+18,Rajganj,7,NIRODE CHANDRA ADHIKARY,Amra Bangalee,833,9,842,0.39
+18,Rajganj,8,DIGBIJAY MANDAL,Independent,1137,9,1146,0.53
+18,Rajganj,9,NOTA,None of the Above,3161,14,3175,1.47
+19,Dabgram-Fulbari,1,Goutam Deb,All India Trinamool Congress,100844,651,101495,39.19
+19,Dabgram-Fulbari,2,Dilip Singh,Communist Party of India  (Marxist),17747,251,17998,6.95
+19,Dabgram-Fulbari,3,Radhakrishna Namadas,Bahujan Samaj Party,1391,4,1395,0.54
+19,Dabgram-Fulbari,4,Sikha Chatterjee,Bharatiya Janata Party,128302,786,129088,49.85
+19,Dabgram-Fulbari,5,Amitav Naskar,Republican Party of India (A),876,5,881,0.34
+19,Dabgram-Fulbari,6,Maniul Islam,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),544,3,547,0.21
+19,Dabgram-Fulbari,7,Shambhu Sutradhar,Amra Bangalee,646,4,650,0.25
+19,Dabgram-Fulbari,8,Maheswar Barman,Independent,1388,3,1391,0.54
+19,Dabgram-Fulbari,9,Rakhi Mandal,Independent,1087,6,1093,0.42
+19,Dabgram-Fulbari,10,Subash Biswas,Independent,1047,5,1052,0.41
+19,Dabgram-Fulbari,11,NOTA,None of the Above,3358,21,3379,1.3
+20,Mal,1,BULU CHIK BARAIK,All India Trinamool Congress,98697,389,99086,46.46
+20,Mal,2,MANU ORAON,Communist Party of India  (Marxist),10797,132,10929,5.12
+20,Mal,3,MAHESH BAGEY,Bharatiya Janata Party,93106,515,93621,43.9
+20,Mal,4,GITA ORAON,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),3000,8,3008,1.41
+20,Mal,5,BABLU MAJHI,Independent,1907,5,1912,0.9
+20,Mal,6,NOTA,None of the Above,4688,11,4699,2.2
+21,Nagrakata,1,PUNA BHENGRA,Bharatiya Janata Party,94371,351,94722,49.55
+21,Nagrakata,2,JOSEPH MUNDA,All India Trinamool Congress,70999,248,71247,37.27
+21,Nagrakata,3,SUKBIR SUBBA,Indian National Congress,12378,64,12442,6.51
+21,Nagrakata,4,BENAM ORAON,Progressive People's Party,2243,4,2247,1.18
+21,Nagrakata,5,ASHAN TIRKEY,Independent,1770,4,1774,0.93
+21,Nagrakata,6,ROBAT MUNDA,Independent,3280,3,3283,1.72
+21,Nagrakata,7,NOTA,None of the Above,5448,6,5454,2.85
 22,Kalimpong,1,DILIP PRADHAN,Indian National Congress,1632,83,1715,1.11
 22,Kalimpong,2,PENJO GOMPU BHUTIA,National People's Party,1750,55,1805,1.17
 22,Kalimpong,3,SUVA PRADHAN,Bharatiya Janata Party,53227,1109,54336,35.09
@@ -411,16 +411,16 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 47,Malatipur,5,GOLAM FARUQUE,Bahujan Mukti Party,591,1,592,0.32
 47,Malatipur,6,MOTIUR RAHAMAN,All India Majlis-E-Ittehadul Muslimeen,1642,1,1643,0.89
 47,Malatipur,7,NOTA,None of the Above,2032,2,2034,1.1
-48,Ratua,1,Abishek Singhania,Bharatiya Janata Party,39018,0,39018,28.33
-48,Ratua,2,Khatun Najema,Indian National Congress,6162,0,6162,4.47
-48,Ratua,3,Chaitanya Rabidas,Bahujan Samaj Party,1013,0,1013,0.74
-48,Ratua,4,Samar Mukherjee,All India Trinamool Congress,81307,0,81307,59.03
-48,Ratua,5,Arafat Ali,Welfare Party Of India,1213,0,1213,0.88
-48,Ratua,6,Ashok Chowdhury,Independent,950,0,950,0.69
-48,Ratua,7,Payel Khatun,Independent,5749,0,5749,4.17
-48,Ratua,8,Sabina Easmin,Independent,583,0,583,0.42
-48,Ratua,9,Sk Israil,Independent,362,0,362,0.26
-48,Ratua,10,NOTA,None of the Above,1384,0,1384,1
+48,Ratua,1,Abishek Singhania,Bharatiya Janata Party,54326,698,55024,25.11
+48,Ratua,2,Khatun Najema,Indian National Congress,15997,176,16173,7.38
+48,Ratua,3,Chaitanya Rabidas,Bahujan Samaj Party,1680,2,1682,0.77
+48,Ratua,4,Samar Mukherjee,All India Trinamool Congress,129805,869,130674,59.63
+48,Ratua,5,Arafat Ali,Welfare Party Of India,2097,5,2102,0.96
+48,Ratua,6,Ashok Chowdhury,Independent,1383,4,1387,0.63
+48,Ratua,7,Payel Khatun,Independent,8596,32,8628,3.94
+48,Ratua,8,Sabina Easmin,Independent,856,0,856,0.39
+48,Ratua,9,Sk Israil,Independent,570,1,571,0.26
+48,Ratua,10,NOTA,None of the Above,2047,4,2051,0.94
 49,Manikchak,1,ALAM MOTTAKIN,Indian National Congress,11403,152,11555,5.58
 49,Manikchak,2,GOUR CHANDRA MANDAL,Bharatiya Janata Party,75415,941,76356,36.89
 49,Manikchak,3,CHANCHALA KARMAKAR,Bahujan Samaj Party,1737,3,1740,0.84
@@ -438,18 +438,18 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 50,Maldaha,6,Mirana Sarkar,Independent,930,1,931,0.45
 50,Maldaha,7,Sujit Kumar Moulik,Independent,2124,4,2128,1.03
 50,Maldaha,8,NOTA,None of the Above,2804,14,2818,1.36
-51,Englishbazar,1,KRISHNENDU NARAYAN CHOUDHURY,All India Trinamool Congress,44997,0,44997,39.45
-51,Englishbazar,2,KOUSHIK MISRA(SAHEB),Communist Party of India  (Marxist),5238,0,5238,4.59
-51,Englishbazar,3,SREERUPA MITRA CHAUDHURY(NIRBHOY DIDI),Bharatiya Janata Party,58686,0,58686,51.45
-51,Englishbazar,4,SURESH CHANDRA SARKAR,Bahujan Samaj Party,564,0,564,0.49
-51,Englishbazar,5,UMA DAS (PAUL),Janata Dal  (United),152,0,152,0.13
-51,Englishbazar,6,GAUTAM SARKAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),141,0,141,0.12
-51,Englishbazar,7,FIROZ AKHTAR,Bahujan Mukti Party,107,0,107,0.09
-51,Englishbazar,8,ADITYA PRAKASH DASGUPTA,Independent,198,0,198,0.17
-51,Englishbazar,9,NARESH PAL,Independent,668,0,668,0.59
-51,Englishbazar,10,MD. ANISUR RAHAMAN,Independent,1013,0,1013,0.89
-51,Englishbazar,11,SATISH RAJBANSHI,Independent,596,0,596,0.52
-51,Englishbazar,12,NOTA,None of the Above,1709,0,1709,1.5
+51,Englishbazar,1,KRISHNENDU NARAYAN CHOUDHURY,All India Trinamool Congress,86163,1493,87656,40.64
+51,Englishbazar,2,KOUSHIK MISRA(SAHEB),Communist Party of India  (Marxist),10377,576,10953,5.08
+51,Englishbazar,3,SREERUPA MITRA CHAUDHURY(NIRBHOY DIDI),Bharatiya Janata Party,105422,2333,107755,49.96
+51,Englishbazar,4,SURESH CHANDRA SARKAR,Bahujan Samaj Party,1024,15,1039,0.48
+51,Englishbazar,5,UMA DAS (PAUL),Janata Dal  (United),273,2,275,0.13
+51,Englishbazar,6,GAUTAM SARKAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),266,1,267,0.12
+51,Englishbazar,7,FIROZ AKHTAR,Bahujan Mukti Party,197,4,201,0.09
+51,Englishbazar,8,ADITYA PRAKASH DASGUPTA,Independent,358,2,360,0.17
+51,Englishbazar,9,NARESH PAL,Independent,1125,4,1129,0.52
+51,Englishbazar,10,MD. ANISUR RAHAMAN,Independent,1786,1,1787,0.83
+51,Englishbazar,11,SATISH RAJBANSHI,Independent,1056,1,1057,0.49
+51,Englishbazar,12,NOTA,None of the Above,3168,28,3196,1.48
 52,Mothabari,1,YEASMIN SABINA,All India Trinamool Congress,96392,1005,97397,59.7
 52,Mothabari,2,DULAL SK,Indian National Congress,16655,248,16903,10.36
 52,Mothabari,3,SHYAMCHAND GHOSH,Bharatiya Janata Party,40436,388,40824,25.02
@@ -461,17 +461,17 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 52,Mothabari,9,SAIDUR RAHAMAN,Independent,495,0,495,0.3
 52,Mothabari,10,SUBODH SARKAR,Independent,565,1,566,0.35
 52,Mothabari,11,NOTA,None of the Above,2139,0,2139,1.31
-53,Sujapur,1,Isha Khan Choudhury,Indian National Congress,12410,0,12410,10.25
-53,Sujapur,2,Md Abdul Ghani,All India Trinamool Congress,90336,0,90336,74.61
-53,Sujapur,3,Rafiqul Islam,Bahujan Samaj Party,753,0,753,0.62
-53,Sujapur,4,Sk Ziauddin,Bharatiya Janata Party,6108,0,6108,5.04
-53,Sujapur,5,Nasmul Hoque,Party for Democratic Socialism,276,0,276,0.23
-53,Sujapur,6,Md. Nur Islam Sekh,Rashtriya Secular Majlis Party,8570,0,8570,7.08
-53,Sujapur,7,Md Monirul Hasan,Jamat-E-Seratul Mustakim,150,0,150,0.12
-53,Sujapur,8,Manjur Alahi Munshi,Independent,264,0,264,0.22
-53,Sujapur,9,Md. Saidul Hoque,Independent,208,0,208,0.17
-53,Sujapur,10,Md. Rahim Biswas,Independent,1179,0,1179,0.97
-53,Sujapur,11,NOTA,None of the Above,818,0,818,0.68
+53,Sujapur,1,Isha Khan Choudhury,Indian National Congress,22042,240,22282,10.73
+53,Sujapur,2,Md Abdul Ghani,All India Trinamool Congress,151658,787,152445,73.44
+53,Sujapur,3,Rafiqul Islam,Bahujan Samaj Party,1458,3,1461,0.7
+53,Sujapur,4,Sk Ziauddin,Bharatiya Janata Party,14655,134,14789,7.12
+53,Sujapur,5,Nasmul Hoque,Party for Democratic Socialism,546,0,546,0.26
+53,Sujapur,6,Md. Nur Islam Sekh,Rashtriya Secular Majlis Party,11162,11,11173,5.38
+53,Sujapur,7,Md Monirul Hasan,Jamat-E-Seratul Mustakim,241,0,241,0.12
+53,Sujapur,8,Manjur Alahi Munshi,Independent,452,2,454,0.22
+53,Sujapur,9,Md. Saidul Hoque,Independent,352,0,352,0.17
+53,Sujapur,10,Md. Rahim Biswas,Independent,2321,0,2321,1.12
+53,Sujapur,11,NOTA,None of the Above,1522,5,1527,0.74
 54,Baisnabnagar,1,AZIZUL HOQUE,Indian National Congress,37201,242,37443,17.95
 54,Baisnabnagar,2,CHANDANA SARKAR,All India Trinamool Congress,82593,468,83061,39.81
 54,Baisnabnagar,3,NIKHIL CHANDRA MANDAL,Bahujan Samaj Party,2280,2,2282,1.09
@@ -784,14 +784,14 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 91,Chakdaha,7,Tapan Biswas,Independent,1362,8,1370,0.65
 91,Chakdaha,8,Bhowmick Koushik,Independent,465,3,468,0.22
 91,Chakdaha,9,NOTA,None of the Above,1475,12,1487,0.7
-92,Kalyani,1,ANIRUDDHA BISWAS,All India Trinamool Congress,87207,0,87207,42.97
-92,Kalyani,2,AMBIKA ROY,Bharatiya Janata Party,90869,0,90869,44.77
-92,Kalyani,3,GOUTAM MALO,Bahujan Samaj Party,1550,0,1550,0.76
-92,Kalyani,4,SABUJ DAS,Communist Party of India  (Marxist),18984,0,18984,9.35
-92,Kalyani,5,SANGRAM BISWAS,Party for Democratic Socialism,603,0,603,0.3
-92,Kalyani,6,AGNIV HIRA,Independent,427,0,427,0.21
-92,Kalyani,7,AMIT KUMAR DAS,Independent,919,0,919,0.45
-92,Kalyani,8,NOTA,None of the Above,2396,0,2396,1.18
+92,Kalyani,1,ANIRUDDHA BISWAS,All India Trinamool Congress,93421,1399,94820,43.03
+92,Kalyani,2,AMBIKA ROY,Bharatiya Janata Party,95995,1031,97026,44.04
+92,Kalyani,3,GOUTAM MALO,Bahujan Samaj Party,1631,30,1661,0.75
+92,Kalyani,4,SABUJ DAS,Communist Party of India  (Marxist),21562,603,22165,10.06
+92,Kalyani,5,SANGRAM BISWAS,Party for Democratic Socialism,669,4,673,0.31
+92,Kalyani,6,AGNIV HIRA,Independent,456,3,459,0.21
+92,Kalyani,7,AMIT KUMAR DAS,Independent,955,2,957,0.43
+92,Kalyani,8,NOTA,None of the Above,2556,21,2577,1.17
 93,Haringhata,1,ALAKESH DAS,Communist Party of India  (Marxist),24635,165,24800,11.76
 93,Haringhata,2,ASIM KUMAR SARKAR,Bharatiya Janata Party,96970,696,97666,46.31
 93,Haringhata,3,NILIMA NAG (MALLICK),All India Trinamool Congress,81686,780,82466,39.11
@@ -819,14 +819,14 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 95,Bangaon Uttar,9,DINESH DAS,Independent,1478,2,1480,0.72
 95,Bangaon Uttar,10,SUBHASIS BISWAS,Independent,578,2,580,0.28
 95,Bangaon Uttar,11,NOTA,None of the Above,1818,15,1833,0.89
-96,Bangaon Dakshin,1,ALO RANI SARKAR,All India Trinamool Congress,93085,0,93085,46.16
-96,Bangaon Dakshin,2,TAPAS KUMAR BISWAS,Communist Party of India  (Marxist),9713,0,9713,4.82
-96,Bangaon Dakshin,3,PRADIP KUMAR SARKAR,Bahujan Samaj Party,791,0,791,0.39
-96,Bangaon Dakshin,4,SWAPAN MAJUMDER,Bharatiya Janata Party,94855,0,94855,47.04
-96,Bangaon Dakshin,5,RABINDRA NATH BARAI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),927,0,927,0.46
-96,Bangaon Dakshin,6,ALOKE BAIN,Independent,451,0,451,0.22
-96,Bangaon Dakshin,7,SUSHANTA KUMAR SARKAR,Independent,327,0,327,0.16
-96,Bangaon Dakshin,8,NOTA,None of the Above,1497,0,1497,0.74
+96,Bangaon Dakshin,1,ALO RANI SARKAR,All India Trinamool Congress,94889,935,95824,46.11
+96,Bangaon Dakshin,2,TAPAS KUMAR BISWAS,Communist Party of India  (Marxist),9894,175,10069,4.84
+96,Bangaon Dakshin,3,PRADIP KUMAR SARKAR,Bahujan Samaj Party,818,2,820,0.39
+96,Bangaon Dakshin,4,SWAPAN MAJUMDER,Bharatiya Janata Party,96862,966,97828,47.07
+96,Bangaon Dakshin,5,RABINDRA NATH BARAI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),947,6,953,0.46
+96,Bangaon Dakshin,6,ALOKE BAIN,Independent,461,1,462,0.22
+96,Bangaon Dakshin,7,SUSHANTA KUMAR SARKAR,Independent,332,4,336,0.16
+96,Bangaon Dakshin,8,NOTA,None of the Above,1529,13,1542,0.74
 97,Gaighata,1,KAPIL KRISHNA THAKUR,Communist Party of India,14576,262,14838,6.96
 97,Gaighata,2,NAROTTAM BISWAS,All India Trinamool Congress,90150,1080,91230,42.78
 97,Gaighata,3,BEAUTY SARKAR,Bahujan Samaj Party,1378,7,1385,0.65
@@ -891,16 +891,16 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 104,Naihati,4,PHALGUNI PATRA,Bharatiya Janata Party,58481,417,58898,37.64
 104,Naihati,5,KANAI DAS,Independent,1373,5,1378,0.88
 104,Naihati,6,NOTA,None of the Above,1689,12,1701,1.09
-105,Bhatpara,1,AJAY KUMAR RAM,Bahujan Samaj Party,665,0,665,0.63
-105,Bhatpara,2,JITENDRA SHAW (JITU),All India Trinamool Congress,43076,0,43076,40.69
-105,Bhatpara,3,DHARMENDRA SHAW,Indian National Congress,2111,0,2111,1.99
-105,Bhatpara,4,PAWAN KUMAR SINGH,Bharatiya Janata Party,56520,0,56520,53.39
-105,Bhatpara,5,PARTHA BHATTACHARYYA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),582,0,582,0.55
-105,Bhatpara,6,UDAY VEER CHOUDHURY,Independent,187,0,187,0.18
-105,Bhatpara,7,VINOD KISHOR VERMA,Independent,743,0,743,0.7
-105,Bhatpara,8,MUNEEL KUMAR RAJAK,Independent,247,0,247,0.23
-105,Bhatpara,9,SABARI CHOWDHURY,Independent,606,0,606,0.57
-105,Bhatpara,10,NOTA,None of the Above,1133,0,1133,1.07
+105,Bhatpara,1,AJAY KUMAR RAM,Bahujan Samaj Party,677,5,682,0.64
+105,Bhatpara,2,JITENDRA SHAW (JITU),All India Trinamool Congress,43385,172,43557,40.63
+105,Bhatpara,3,DHARMENDRA SHAW,Indian National Congress,2144,25,2169,2.02
+105,Bhatpara,4,PAWAN KUMAR SINGH,Bharatiya Janata Party,57050,194,57244,53.4
+105,Bhatpara,5,PARTHA BHATTACHARYYA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),590,2,592,0.55
+105,Bhatpara,6,UDAY VEER CHOUDHURY,Independent,190,1,191,0.18
+105,Bhatpara,7,VINOD KISHOR VERMA,Independent,743,1,744,0.69
+105,Bhatpara,8,MUNEEL KUMAR RAJAK,Independent,248,0,248,0.23
+105,Bhatpara,9,SABARI CHOWDHURY,Independent,609,1,610,0.57
+105,Bhatpara,10,NOTA,None of the Above,1146,14,1160,1.08
 106,Jagatdal,1,ARINDAM BHATTACHARYA,Bharatiya Janata Party,68221,445,68666,37.88
 106,Jagatdal,2,KRISHNA CHANDRA SARKAR,Bahujan Samaj Party,899,9,908,0.5
 106,Jagatdal,3,NEMAI SAHA,All India Forward Bloc,16555,193,16748,9.24
@@ -914,23 +914,23 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 106,Jagatdal,11,SURAJ TIWARI,Independent,567,2,569,0.31
 106,Jagatdal,12,SOMNATH SARKAR,Independent,868,7,875,0.48
 106,Jagatdal,13,NOTA,None of the Above,2558,10,2568,1.42
-107,Noapara,1,MANJU BASU,All India Trinamool Congress,86509,0,86509,49.21
-107,Noapara,2,RAJENDRA CHOUDHARY,Bahujan Samaj Party,1165,0,1165,0.66
-107,Noapara,3,SUBHANKAR SARKAR,Indian National Congress,21812,0,21812,12.41
-107,Noapara,4,SUNIL SINGH,Bharatiya Janata Party,60773,0,60773,34.57
-107,Noapara,5,RANJIT BISWAS,Guru Chand Mukti Morcha,596,0,596,0.34
-107,Noapara,6,AMIT KUMAR SHAW,Independent,244,0,244,0.14
-107,Noapara,7,ANAND PANDEY,Independent,276,0,276,0.16
-107,Noapara,8,RABISHANKAR PAUL,Independent,752,0,752,0.43
-107,Noapara,9,RABINDRA NATH BISWAS,Independent,547,0,547,0.31
-107,Noapara,10,SWAPAN KUMAR DEBNATH,Independent,459,0,459,0.26
-107,Noapara,11,NOTA,None of the Above,2666,0,2666,1.52
-108,Barrackpur,1,CHANDRAMANI SHUKLA,Bharatiya Janata Party,41191,0,41191,36.67
-108,Barrackpur,2,TAPASH SARKAR,Bahujan Samaj Party,739,0,739,0.66
-108,Barrackpur,3,DEBASISH BHOWMICK,Communist Party of India  (Marxist),14168,0,14168,12.61
-108,Barrackpur,4,RAJU CHAKRABORTY (RAJ),All India Trinamool Congress,54257,0,54257,48.31
-108,Barrackpur,5,KUMAR BISHAL YADAB,Independent,480,0,480,0.43
-108,Barrackpur,6,NOTA,None of the Above,1486,0,1486,1.32
+107,Noapara,1,MANJU BASU,All India Trinamool Congress,93515,688,94203,48.9
+107,Noapara,2,RAJENDRA CHOUDHARY,Bahujan Samaj Party,1289,16,1305,0.68
+107,Noapara,3,SUBHANKAR SARKAR,Indian National Congress,23210,292,23502,12.2
+107,Noapara,4,SUNIL SINGH,Bharatiya Janata Party,67098,395,67493,35.04
+107,Noapara,5,RANJIT BISWAS,Guru Chand Mukti Morcha,657,4,661,0.34
+107,Noapara,6,AMIT KUMAR SHAW,Independent,276,1,277,0.14
+107,Noapara,7,ANAND PANDEY,Independent,306,3,309,0.16
+107,Noapara,8,RABISHANKAR PAUL,Independent,857,0,857,0.44
+107,Noapara,9,RABINDRA NATH BISWAS,Independent,613,9,622,0.32
+107,Noapara,10,SWAPAN KUMAR DEBNATH,Independent,513,6,519,0.27
+107,Noapara,11,NOTA,None of the Above,2873,13,2886,1.5
+108,Barrackpur,1,CHANDRAMANI SHUKLA,Bharatiya Janata Party,59255,410,59665,40.25
+108,Barrackpur,2,TAPASH SARKAR,Bahujan Samaj Party,955,15,970,0.65
+108,Barrackpur,3,DEBASISH BHOWMICK,Communist Party of India  (Marxist),15932,213,16145,10.89
+108,Barrackpur,4,RAJU CHAKRABORTY (RAJ),All India Trinamool Congress,68441,446,68887,46.47
+108,Barrackpur,5,KUMAR BISHAL YADAB,Independent,650,2,652,0.44
+108,Barrackpur,6,NOTA,None of the Above,1923,7,1930,1.3
 109,Khardaha,1,KAJAL SINHA,All India Trinamool Congress,89413,394,89807,49.04
 109,Khardaha,2,DEBAJYOTI DAS (SUBHO),Communist Party of India  (Marxist),26730,186,26916,14.7
 109,Khardaha,3,SILBHADRA DATTA,Bharatiya Janata Party,61372,295,61667,33.67
@@ -962,13 +962,13 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 112,Kamarhati,8,SANJIB PANDIT,Independent,335,3,338,0.23
 112,Kamarhati,9,Satya Brata Bandyopadhyay,Independent,823,5,828,0.57
 112,Kamarhati,10,NOTA,None of the Above,1546,7,1553,1.08
-113,Baranagar,1,AMAL KUMAR MUKHOPADHYAY,Indian National Congress,19212,0,19212,12.53
-113,Baranagar,2,TAPAS ROY,All India Trinamool Congress,81757,0,81757,53.31
-113,Baranagar,3,PARNO MITTRA,Bharatiya Janata Party,48519,0,48519,31.64
-113,Baranagar,4,SURAJIT GHOSH,National Republic Party Of India,520,0,520,0.34
-113,Baranagar,5,SHYAMAL CK,Independent,469,0,469,0.31
-113,Baranagar,6,SUBRATA DE,Independent,609,0,609,0.4
-113,Baranagar,7,NOTA,None of the Above,2283,0,2283,1.49
+113,Baranagar,1,AMAL KUMAR MUKHOPADHYAY,Indian National Congress,19883,252,20135,12.56
+113,Baranagar,2,TAPAS ROY,All India Trinamool Congress,84756,859,85615,53.42
+113,Baranagar,3,PARNO MITTRA,Bharatiya Janata Party,50155,313,50468,31.49
+113,Baranagar,4,SURAJIT GHOSH,National Republic Party Of India,535,3,538,0.34
+113,Baranagar,5,SHYAMAL CK,Independent,491,4,495,0.31
+113,Baranagar,6,SUBRATA DE,Independent,628,2,630,0.39
+113,Baranagar,7,NOTA,None of the Above,2365,13,2378,1.48
 114,Dum Dum,1,PALASH DAS,Communist Party of India  (Marxist),30520,133,30653,16.54
 114,Dum Dum,2,BIMALSHANKAR NANDA,Bharatiya Janata Party,61038,230,61268,33.06
 114,Dum Dum,3,BRTYA BASU,All India Trinamool Congress,87543,456,87999,47.48
@@ -978,13 +978,13 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 114,Dum Dum,7,RUPA SARKAR,Independent,771,3,774,0.42
 114,Dum Dum,8,SUBRATA SEN,Independent,417,1,418,0.23
 114,Dum Dum,9,NOTA,None of the Above,2035,4,2039,1.1
-115,Rajarhat New Town,1,BHASKAR ROY  S/O - DULAL ROY,Bharatiya Janata Party,62608,0,62608,29.35
-115,Rajarhat New Town,2,BHASKAR ROY S/O - KRISHNA KANTA ROY,Bahujan Samaj Party,984,0,984,0.46
-115,Rajarhat New Town,3,SAPTARSHI DEB,Communist Party of India  (Marxist),28385,0,28385,13.31
-115,Rajarhat New Town,4,TAPASH CHATTERJEE,All India Trinamool Congress,117825,0,117825,55.24
-115,Rajarhat New Town,5,SUBHENDU GHOSH,Independent,1214,0,1214,0.57
-115,Rajarhat New Town,6,SUBIR SAMADDAR,Independent,509,0,509,0.24
-115,Rajarhat New Town,7,NOTA,None of the Above,1777,0,1777,0.83
+115,Rajarhat New Town,1,BHASKAR ROY  S/O - DULAL ROY,Bharatiya Janata Party,70658,284,70942,30.2
+115,Rajarhat New Town,2,BHASKAR ROY S/O - KRISHNA KANTA ROY,Bahujan Samaj Party,1127,10,1137,0.48
+115,Rajarhat New Town,3,SAPTARSHI DEB,Communist Party of India  (Marxist),31419,124,31543,13.43
+115,Rajarhat New Town,4,TAPASH CHATTERJEE,All India Trinamool Congress,126945,429,127374,54.22
+115,Rajarhat New Town,5,SUBHENDU GHOSH,Independent,1310,3,1313,0.56
+115,Rajarhat New Town,6,SUBIR SAMADDAR,Independent,563,2,565,0.24
+115,Rajarhat New Town,7,NOTA,None of the Above,2028,4,2032,0.87
 116,Bidhannagar,1,ABHISEK BANERJEE,Indian National Congress,12664,157,12821,7.91
 116,Bidhannagar,2,SABYA SACHI DUTTA S/O - LATE GOURI SANKAR DUTTA,Bharatiya Janata Party,67548,367,67915,41.91
 116,Bidhannagar,3,SMRITI KANA HOWLADER,Bahujan Samaj Party,604,7,611,0.38
@@ -1084,15 +1084,15 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 128,Basanti,5,DEBABRATA MONDAL,Independent,722,6,728,0.34
 128,Basanti,6,BISWAJIT MONDAL,Independent,1631,4,1635,0.76
 128,Basanti,7,NOTA,None of the Above,1905,2,1907,0.89
-129,Kultali,1,KANAN BALA MONDAL,Bahujan Samaj Party,1651,5,1656,0.73
-129,Kultali,2,Ganesh Chandra Mondal,All India Trinamool Congress,116650,657,117307,51.6
-129,Kultali,3,Mintu Halder,Bharatiya Janata Party,69461,342,69803,30.7
-129,Kultali,4,Ram Sankar Halder,Communist Party of India  (Marxist),19891,84,19975,8.79
-129,Kultali,5,Kartick Mondal,Bahujan Mukti Party,456,4,460,0.2
-129,Kultali,6,JAYKRISHNA HALDAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),15205,97,15302,6.73
+129,Kultali,1,KANAN BALA MONDAL,Bahujan Samaj Party,1427,5,1432,0.63
+129,Kultali,2,Ganesh Chandra Mondal,All India Trinamool Congress,116581,657,117238,51.57
+129,Kultali,3,Mintu Halder,Bharatiya Janata Party,69719,342,70061,30.82
+129,Kultali,4,Ram Sankar Halder,Communist Party of India  (Marxist),19926,84,20010,8.8
+129,Kultali,5,Kartick Mondal,Bahujan Mukti Party,454,4,458,0.2
+129,Kultali,6,JAYKRISHNA HALDAR,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),15209,97,15306,6.73
 129,Kultali,7,Bablu Sanfui,Lok Jan Shakti Party,345,1,346,0.15
 129,Kultali,8,Gobinda Majhi,Independent,447,3,450,0.2
-129,Kultali,9,Ratan Kumar Naskar,Independent,1001,3,1004,0.44
+129,Kultali,9,Ratan Kumar Naskar,Independent,999,3,1002,0.44
 129,Kultali,10,NOTA,None of the Above,1045,3,1048,0.46
 130,Patharpratima,1,ASIT KUMAR HALDAR,Bharatiya Janata Party,97704,343,98047,42.3
 130,Patharpratima,2,SHUKDEB BERA,Indian National Congress,10120,62,10182,4.39
@@ -1196,29 +1196,29 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 142,Magrahat Paschim,9,SAMSUL HUDA LASKAR,Independent,606,1,607,0.31
 142,Magrahat Paschim,10,HABUL KUMAR MANDAL,Independent,914,6,920,0.47
 142,Magrahat Paschim,11,NOTA,None of the Above,2280,6,2286,1.18
-143,Diamond Harbour,1,GOLAM ALI SEKH,Bahujan Samaj Party,832,0,832,0.47
-143,Diamond Harbour,2,DIPAK KUMAR HALDER,Bharatiya Janata Party,56730,0,56730,32.2
-143,Diamond Harbour,3,PANNALAL HALDER,All India Trinamool Congress,79674,0,79674,45.23
-143,Diamond Harbour,4,PRATIK UR RAHAMAN,Communist Party of India  (Marxist),34511,0,34511,19.59
-143,Diamond Harbour,5,MONARAMA HALDER,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),357,0,357,0.2
-143,Diamond Harbour,6,SACHINDRA NATH HALDER,Republican Party of India (A),139,0,139,0.08
-143,Diamond Harbour,7,KISHOR KUMAR MONDAL,Independent,127,0,127,0.07
-143,Diamond Harbour,8,BISWAJIT SARDAR,Independent,193,0,193,0.11
-143,Diamond Harbour,9,LATAB UDDIN MOLLA,Independent,653,0,653,0.37
-143,Diamond Harbour,10,SAFIULLA KHAN,Independent,1266,0,1266,0.72
-143,Diamond Harbour,11,SWAPAN MONDAL,Independent,611,0,611,0.35
-143,Diamond Harbour,12,NOTA,None of the Above,1074,0,1074,0.61
-144,Falta,1,ATAL KUMAR PURKAIT,Bahujan Samaj Party,591,0,591,0.45
-144,Falta,2,ABDUR RAZZAK MOLLA,Indian National Congress,5196,0,5196,3.96
-144,Falta,3,BIDHAN PARUI,Bharatiya Janata Party,47506,0,47506,36.16
-144,Falta,4,SANKAR KUMAR NASKAR,All India Trinamool Congress,74291,0,74291,56.55
-144,Falta,5,JULFIKAR SHAIK,Independent,730,0,730,0.56
-144,Falta,6,DEEPAK RAM,Independent,157,0,157,0.12
-144,Falta,7,MILAN DHUM,Independent,230,0,230,0.18
-144,Falta,8,M. RAQUIBUL HASAN MALLICK,Independent,1044,0,1044,0.79
-144,Falta,9,SANTOSH SAMANTA,Independent,608,0,608,0.46
-144,Falta,10,SOMNATH MONDAL,Independent,264,0,264,0.2
-144,Falta,11,NOTA,None of the Above,747,0,747,0.57
+143,Diamond Harbour,1,GOLAM ALI SEKH,Bahujan Samaj Party,1086,2,1088,0.48
+143,Diamond Harbour,2,DIPAK KUMAR HALDER,Bharatiya Janata Party,81098,384,81482,36.15
+143,Diamond Harbour,3,PANNALAL HALDER,All India Trinamool Congress,98032,446,98478,43.69
+143,Diamond Harbour,4,PRATIK UR RAHAMAN,Communist Party of India  (Marxist),38612,107,38719,17.18
+143,Diamond Harbour,5,MONARAMA HALDER,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),469,0,469,0.21
+143,Diamond Harbour,6,SACHINDRA NATH HALDER,Republican Party of India (A),174,0,174,0.08
+143,Diamond Harbour,7,KISHOR KUMAR MONDAL,Independent,164,1,165,0.07
+143,Diamond Harbour,8,BISWAJIT SARDAR,Independent,234,0,234,0.1
+143,Diamond Harbour,9,LATAB UDDIN MOLLA,Independent,750,4,754,0.33
+143,Diamond Harbour,10,SAFIULLA KHAN,Independent,1585,0,1585,0.7
+143,Diamond Harbour,11,SWAPAN MONDAL,Independent,800,0,800,0.35
+143,Diamond Harbour,12,NOTA,None of the Above,1446,3,1449,0.64
+144,Falta,1,ATAL KUMAR PURKAIT,Bahujan Samaj Party,772,4,776,0.37
+144,Falta,2,ABDUR RAZZAK MOLLA,Indian National Congress,7413,39,7452,3.58
+144,Falta,3,BIDHAN PARUI,Bharatiya Janata Party,76033,372,76405,36.75
+144,Falta,4,SANKAR KUMAR NASKAR,All India Trinamool Congress,116077,1102,117179,56.35
+144,Falta,5,JULFIKAR SHAIK,Independent,1177,6,1183,0.57
+144,Falta,6,DEEPAK RAM,Independent,272,1,273,0.13
+144,Falta,7,MILAN DHUM,Independent,364,1,365,0.18
+144,Falta,8,M. RAQUIBUL HASAN MALLICK,Independent,1674,3,1677,0.81
+144,Falta,9,SANTOSH SAMANTA,Independent,1019,7,1026,0.49
+144,Falta,10,SOMNATH MONDAL,Independent,407,4,411,0.2
+144,Falta,11,NOTA,None of the Above,1180,5,1185,0.57
 145,Satgachhia,1,GOUTAM PAL,Communist Party of India  (Marxist),16134,86,16220,6.89
 145,Satgachhia,2,CHANDAN PAL,Bharatiya Janata Party,94927,390,95317,40.47
 145,Satgachhia,3,MOHAN CHANDRA NASKAR,All India Trinamool Congress,117974,661,118635,50.37
@@ -1247,14 +1247,14 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 147,Sonarpur Dakshin,13,RANGALAL BARIK,Independent,501,1,502,0.22
 147,Sonarpur Dakshin,14,SHAMPA DAS,Independent,1901,6,1907,0.82
 147,Sonarpur Dakshin,15,NOTA,None of the Above,2541,9,2550,1.1
-148,Bhangar,1,KARIM REZAUL,All India Trinamool Congress,57504,0,57504,34.71
-148,Bhangar,2,SOUMI HATI,Bharatiya Janata Party,25934,0,25934,15.65
-148,Bhangar,3,TAPAN GHOSH,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),649,0,649,0.39
-148,Bhangar,4,MD. NAWSAD SIDDIQUE,Rashtriya Secular Majlis Party,74237,0,74237,44.81
-148,Bhangar,5,MIRJA HASAN,Communist Party of India (Marxist-Leninist) Red Star,3674,0,3674,2.22
-148,Bhangar,6,ISMAIL  MOLLA,Independent,481,0,481,0.29
-148,Bhangar,7,NOUSHAR ALI MOLLA,Independent,906,0,906,0.55
-148,Bhangar,8,NOTA,None of the Above,2291,0,2291,1.38
+148,Bhangar,1,KARIM REZAUL,All India Trinamool Congress,82850,236,83086,34.31
+148,Bhangar,2,SOUMI HATI,Bharatiya Janata Party,38636,90,38726,15.99
+148,Bhangar,3,TAPAN GHOSH,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),933,4,937,0.39
+148,Bhangar,4,MD. NAWSAD SIDDIQUE,Rashtriya Secular Majlis Party,109063,174,109237,45.1
+148,Bhangar,5,MIRJA HASAN,Communist Party of India (Marxist-Leninist) Red Star,4925,5,4930,2.04
+148,Bhangar,6,ISMAIL  MOLLA,Independent,720,3,723,0.3
+148,Bhangar,7,NOUSHAR ALI MOLLA,Independent,1301,2,1303,0.54
+148,Bhangar,8,NOTA,None of the Above,3243,0,3243,1.34
 149,Kasba,1,AHMED JAVED KHAN,All India Trinamool Congress,120957,415,121372,54.39
 149,Kasba,2,DR. INDRANIL KHAN,Bharatiya Janata Party,57559,191,57750,25.88
 149,Kasba,3,SHATARUP GHOSH,Communist Party of India  (Marxist),38971,209,39180,17.56
@@ -1265,18 +1265,18 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 149,Kasba,8,TUSHAN MUKHERJEE,Independent,429,1,430,0.19
 149,Kasba,9,UMESH KR. SINGH,Independent,502,1,503,0.23
 149,Kasba,10,NOTA,None of the Above,2465,11,2476,1.11
-150,Jadavpur,1,DEBABRATA MAJUMDAR (MALAY),All India Trinamool Congress,96714,0,96714,45.51
-150,Jadavpur,2,RINKU NASKAR,Bharatiya Janata Party,52522,0,52522,24.72
-150,Jadavpur,3,Dr. SUJAN CHAKRABORTY,Communist Party of India  (Marxist),58393,0,58393,27.48
-150,Jadavpur,4,SUJOY NASKAR,Bahujan Samaj Party,635,0,635,0.3
-150,Jadavpur,5,MONALISA GUPTA (DEBROY),Party for Democratic Socialism,378,0,378,0.18
-150,Jadavpur,6,ATANU CHATTERJEE,Independent,99,0,99,0.05
-150,Jadavpur,7,ASHUTOSH DEY,Independent,85,0,85,0.04
-150,Jadavpur,8,TANUJIT DAS,Independent,106,0,106,0.05
-150,Jadavpur,9,NRIPENDRA KRISHNA ROY,Independent,224,0,224,0.11
+150,Jadavpur,1,DEBABRATA MAJUMDAR (MALAY),All India Trinamool Congress,97152,948,98100,45.54
+150,Jadavpur,2,RINKU NASKAR,Bharatiya Janata Party,52795,344,53139,24.67
+150,Jadavpur,3,Dr. SUJAN CHAKRABORTY,Communist Party of India  (Marxist),58666,565,59231,27.5
+150,Jadavpur,4,SUJOY NASKAR,Bahujan Samaj Party,639,10,649,0.3
+150,Jadavpur,5,MONALISA GUPTA (DEBROY),Party for Democratic Socialism,380,5,385,0.18
+150,Jadavpur,6,ATANU CHATTERJEE,Independent,100,0,100,0.05
+150,Jadavpur,7,ASHUTOSH DEY,Independent,86,5,91,0.04
+150,Jadavpur,8,TANUJIT DAS,Independent,106,4,110,0.05
+150,Jadavpur,9,NRIPENDRA KRISHNA ROY,Independent,225,4,229,0.11
 150,Jadavpur,10,MISTOO DAS,Independent,255,0,255,0.12
-150,Jadavpur,11,MEGHA CHATTERJEE,Independent,395,0,395,0.19
-150,Jadavpur,12,NOTA,None of the Above,2694,0,2694,1.27
+150,Jadavpur,11,MEGHA CHATTERJEE,Independent,398,2,400,0.19
+150,Jadavpur,12,NOTA,None of the Above,2713,17,2730,1.27
 151,Sonarpur Uttar,1,AJIT BAUL,Bahujan Samaj Party,1351,5,1356,0.56
 151,Sonarpur Uttar,2,FIRDOUSI BEGUM,All India Trinamool Congress,119272,685,119957,49.88
 151,Sonarpur Uttar,3,MONALISA SINHA,Communist Party of India  (Marxist),29152,248,29400,12.22
@@ -1299,18 +1299,18 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 152,Tollyganj,11,SAMAR KUMAR BISWAS,Independent,195,0,195,0.1
 152,Tollyganj,12,SUDIPTA SOM,Independent,302,1,303,0.15
 152,Tollyganj,13,NOTA,None of the Above,2297,13,2310,1.17
-153,Behala Purba,1,Payel Sarkar,Bharatiya Janata Party,25195,0,25195,35.24
-153,Behala Purba,2,Ratna Chatterjee,All India Trinamool Congress,35111,0,35111,49.11
-153,Behala Purba,3,Rina Roy,Bahujan Samaj Party,356,0,356,0.5
-153,Behala Purba,4,Samita Har Chowdhury,Communist Party of India  (Marxist),8842,0,8842,12.37
-153,Behala Purba,5,Ashis Kumar Danda,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),237,0,237,0.33
-153,Behala Purba,6,Dr. Arun Kumar Giri,Independent,90,0,90,0.13
-153,Behala Purba,7,Bholanath Patra,Independent,92,0,92,0.13
-153,Behala Purba,8,Dhiman Debnath,Independent,48,0,48,0.07
-153,Behala Purba,9,Nikhilesh Ghosh,Independent,105,0,105,0.15
-153,Behala Purba,10,Subrata Roy,Independent,152,0,152,0.21
-153,Behala Purba,11,Tulsi Rani Pramanik,Independent,380,0,380,0.53
-153,Behala Purba,12,NOTA,None of the Above,881,0,881,1.23
+153,Behala Purba,1,Payel Sarkar,Bharatiya Janata Party,73137,403,73540,33.15
+153,Behala Purba,2,Ratna Chatterjee,All India Trinamool Congress,110294,674,110968,50.01
+153,Behala Purba,3,Rina Roy,Bahujan Samaj Party,1158,17,1175,0.53
+153,Behala Purba,4,Samita Har Chowdhury,Communist Party of India  (Marxist),29945,227,30172,13.6
+153,Behala Purba,5,Ashis Kumar Danda,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),658,5,663,0.3
+153,Behala Purba,6,Dr. Arun Kumar Giri,Independent,269,2,271,0.12
+153,Behala Purba,7,Bholanath Patra,Independent,262,3,265,0.12
+153,Behala Purba,8,Dhiman Debnath,Independent,142,1,143,0.06
+153,Behala Purba,9,Nikhilesh Ghosh,Independent,270,0,270,0.12
+153,Behala Purba,10,Subrata Roy,Independent,398,5,403,0.18
+153,Behala Purba,11,Tulsi Rani Pramanik,Independent,1163,4,1167,0.53
+153,Behala Purba,12,NOTA,None of the Above,2729,106,2835,1.28
 154,Behala Paschim,1,AMAL DHALI,Bahujan Samaj Party,855,7,862,0.37
 154,Behala Paschim,2,NIHAR BHAKTA,Communist Party of India  (Marxist),47156,353,47509,20.49
 154,Behala Paschim,3,PARTHA CHATTERJEE,All India Trinamool Congress,113787,991,114778,49.51
@@ -1405,36 +1405,36 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 162,Chowrangee,10,SAYANTAN PATRA,Independent,162,1,163,0.15
 162,Chowrangee,11,SUMANTA BHOWMICK,Independent,169,0,169,0.15
 162,Chowrangee,12,NOTA,None of the Above,1207,5,1212,1.09
-163,Entally,1,Md. Fayaz,Bahujan Samaj Party,824,0,824,0.53
-163,Entally,2,Priyanka Tibrewal,Bharatiya Janata Party,43248,0,43248,27.7
-163,Entally,3,Swarna Kamal Saha,All India Trinamool Congress,101266,0,101266,64.85
-163,Entally,4,Goutam Prasad,West Bengal Socialist Party,797,0,797,0.51
-163,Entally,5,Md. Enayetullah Ansari,All India Minorities Front,248,0,248,0.16
-163,Entally,6,Md. Iqbal Alam,Rashtriya Secular Majlis Party,4297,0,4297,2.75
-163,Entally,7,Md. Nurul Huda,Janata Dal  (United),135,0,135,0.09
-163,Entally,8,Swarnalata Sarkar,Bharatiya Nyay-Adhikar Raksha Party,131,0,131,0.08
+163,Entally,1,Md. Fayaz,Bahujan Samaj Party,824,3,827,0.53
+163,Entally,2,Priyanka Tibrewal,Bharatiya Janata Party,43248,204,43452,27.7
+163,Entally,3,Swarna Kamal Saha,All India Trinamool Congress,101266,443,101709,64.83
+163,Entally,4,Goutam Prasad,West Bengal Socialist Party,797,1,798,0.51
+163,Entally,5,Md. Enayetullah Ansari,All India Minorities Front,248,1,249,0.16
+163,Entally,6,Md. Iqbal Alam,Rashtriya Secular Majlis Party,4297,57,4354,2.78
+163,Entally,7,Md. Nurul Huda,Janata Dal  (United),135,2,137,0.09
+163,Entally,8,Swarnalata Sarkar,Bharatiya Nyay-Adhikar Raksha Party,131,1,132,0.08
 163,Entally,9,Arindam Roy,Independent,137,0,137,0.09
-163,Entally,10,Ashok Das,Independent,155,0,155,0.1
-163,Entally,11,Kundan Kumar Shaw,Independent,205,0,205,0.13
-163,Entally,12,Md. Imran,Independent,349,0,349,0.22
-163,Entally,13,Mousumi Roy,Independent,769,0,769,0.49
-163,Entally,14,Prabir Dasgupta,Independent,1934,0,1934,1.24
+163,Entally,10,Ashok Das,Independent,155,1,156,0.1
+163,Entally,11,Kundan Kumar Shaw,Independent,205,2,207,0.13
+163,Entally,12,Md. Imran,Independent,349,1,350,0.22
+163,Entally,13,Mousumi Roy,Independent,769,1,770,0.49
+163,Entally,14,Prabir Dasgupta,Independent,1934,0,1934,1.23
 163,Entally,15,Saleha Tabassum,Independent,671,0,671,0.43
-163,Entally,16,NOTA,None of the Above,980,0,980,0.63
-164,Beleghata,1,ARJUN KUMAR DAS,Bahujan Samaj Party,422,0,422,0.49
-164,Beleghata,2,KASHINATH BISWAS,Bharatiya Janata Party,16677,0,16677,19.31
-164,Beleghata,3,PARESH PAUL,All India Trinamool Congress,60525,0,60525,70.07
-164,Beleghata,4,RAJIB BISWAS,Communist Party of India  (Marxist),6178,0,6178,7.15
-164,Beleghata,5,BAPI PAUL,Akhil Bharat Hindu Mahasabha,108,0,108,0.13
-164,Beleghata,6,TARUN KUMAR DAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),86,0,86,0.1
-164,Beleghata,7,AVIJIT GHOSH,Independent,86,0,86,0.1
-164,Beleghata,8,DIP SANKAR NAIYA,Independent,53,0,53,0.06
-164,Beleghata,9,MANASH CHOWDHURY,Independent,43,0,43,0.05
-164,Beleghata,10,RAKESH SHAW,Independent,84,0,84,0.1
-164,Beleghata,11,SHAHAWAZ AFZAL,Independent,261,0,261,0.3
-164,Beleghata,12,SURENDAR TEWARI,Independent,713,0,713,0.83
-164,Beleghata,13,SUSOVAN DUTTA,Independent,243,0,243,0.28
-164,Beleghata,14,NOTA,None of the Above,897,0,897,1.04
+163,Entally,16,NOTA,None of the Above,980,11,991,0.63
+164,Beleghata,1,ARJUN KUMAR DAS,Bahujan Samaj Party,751,6,757,0.48
+164,Beleghata,2,KASHINATH BISWAS,Bharatiya Janata Party,35817,225,36042,22.74
+164,Beleghata,3,PARESH PAUL,All India Trinamool Congress,102478,704,103182,65.1
+164,Beleghata,4,RAJIB BISWAS,Communist Party of India  (Marxist),13908,137,14045,8.86
+164,Beleghata,5,BAPI PAUL,Akhil Bharat Hindu Mahasabha,204,2,206,0.13
+164,Beleghata,6,TARUN KUMAR DAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),164,4,168,0.11
+164,Beleghata,7,AVIJIT GHOSH,Independent,134,0,134,0.08
+164,Beleghata,8,DIP SANKAR NAIYA,Independent,89,5,94,0.06
+164,Beleghata,9,MANASH CHOWDHURY,Independent,84,2,86,0.05
+164,Beleghata,10,RAKESH SHAW,Independent,166,11,177,0.11
+164,Beleghata,11,SHAHAWAZ AFZAL,Independent,435,2,437,0.28
+164,Beleghata,12,SURENDAR TEWARI,Independent,1168,0,1168,0.74
+164,Beleghata,13,SUSOVAN DUTTA,Independent,445,1,446,0.28
+164,Beleghata,14,NOTA,None of the Above,1559,5,1564,0.99
 165,Jorasanko,1,AJMAL KHAN,Indian National Congress,4736,33,4769,4.82
 165,Jorasanko,2,MEENA DEVI PUROHIT,Bharatiya Janata Party,39238,142,39380,39.8
 165,Jorasanko,3,NIRMAL KANTI SAMADDAR,Bahujan Samaj Party,411,1,412,0.42
@@ -1459,28 +1459,28 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 166,Shyampukur,11,SURAJIT GHOSH,Independent,639,0,639,0.62
 166,Shyampukur,12,TARKESH RAI,Independent,279,1,280,0.27
 166,Shyampukur,13,NOTA,None of the Above,1053,10,1063,1.03
-167,Maniktola,1,Ajay Prajapati,Bahujan Samaj Party,185,0,185,0.51
-167,Maniktola,2,Kalyan Chaubey,Bharatiya Janata Party,12881,0,12881,35.29
-167,Maniktola,3,Rupa Bagchi,Communist Party of India  (Marxist),3367,0,3367,9.22
-167,Maniktola,4,Sadhan Pande,All India Trinamool Congress,18953,0,18953,51.93
-167,Maniktola,5,Subir Das,Bahujan Mukti Party,126,0,126,0.35
-167,Maniktola,6,Tarun Banerjee,Socialist Party (India),49,0,49,0.13
-167,Maniktola,7,Bablu Dey,Independent,54,0,54,0.15
-167,Maniktola,8,Moumita Manna,Independent,67,0,67,0.18
-167,Maniktola,9,Nimai Nath,Independent,208,0,208,0.57
-167,Maniktola,10,Somen Das,Independent,85,0,85,0.23
-167,Maniktola,11,Somnath Das,Independent,119,0,119,0.33
-167,Maniktola,12,NOTA,None of the Above,406,0,406,1.11
-168,Kashipur-Belgachhia,1,Atin Ghosh,All India Trinamool Congress,26574,908,27482,55.56
-168,Kashipur-Belgachhia,2,PRATIP DASGUPTA,Communist Party of India  (Marxist),5948,253,6201,12.54
-168,Kashipur-Belgachhia,3,SHIO KUMAR KHATIK,Bahujan Samaj Party,176,7,183,0.37
-168,Kashipur-Belgachhia,4,Sibaji Sinha Roy,Bharatiya Janata Party,14328,368,14696,29.71
-168,Kashipur-Belgachhia,5,KUSH MAHALI,Independent,80,5,85,0.17
-168,Kashipur-Belgachhia,6,MD SHAKIL,Independent,51,7,58,0.12
-168,Kashipur-Belgachhia,7,Rajesh Kumar Das,Independent,67,1,68,0.14
-168,Kashipur-Belgachhia,8,SHREE NARAYAN TANDON,Independent,70,1,71,0.14
-168,Kashipur-Belgachhia,9,TAPAS GHOSH,Independent,67,0,67,0.14
-168,Kashipur-Belgachhia,10,NOTA,None of the Above,539,13,552,1.12
+167,Maniktola,1,Ajay Prajapati,Bahujan Samaj Party,667,2,669,0.5
+167,Maniktola,2,Kalyan Chaubey,Bharatiya Janata Party,47180,159,47339,35.6
+167,Maniktola,3,Rupa Bagchi,Communist Party of India  (Marxist),13390,123,13513,10.16
+167,Maniktola,4,Sadhan Pande,All India Trinamool Congress,67180,397,67577,50.82
+167,Maniktola,5,Subir Das,Bahujan Mukti Party,405,3,408,0.31
+167,Maniktola,6,Tarun Banerjee,Socialist Party (India),203,0,203,0.15
+167,Maniktola,7,Bablu Dey,Independent,168,0,168,0.13
+167,Maniktola,8,Moumita Manna,Independent,239,1,240,0.18
+167,Maniktola,9,Nimai Nath,Independent,783,0,783,0.59
+167,Maniktola,10,Somen Das,Independent,257,0,257,0.19
+167,Maniktola,11,Somnath Das,Independent,390,0,390,0.29
+167,Maniktola,12,NOTA,None of the Above,1413,7,1420,1.07
+168,Kashipur-Belgachhia,1,Atin Ghosh,All India Trinamool Congress,75274,908,76182,56.48
+168,Kashipur-Belgachhia,2,PRATIP DASGUPTA,Communist Party of India  (Marxist),14504,253,14757,10.94
+168,Kashipur-Belgachhia,3,SHIO KUMAR KHATIK,Bahujan Samaj Party,532,7,539,0.4
+168,Kashipur-Belgachhia,4,Sibaji Sinha Roy,Bharatiya Janata Party,40424,368,40792,30.24
+168,Kashipur-Belgachhia,5,KUSH MAHALI,Independent,229,5,234,0.17
+168,Kashipur-Belgachhia,6,MD SHAKIL,Independent,137,7,144,0.11
+168,Kashipur-Belgachhia,7,Rajesh Kumar Das,Independent,233,1,234,0.17
+168,Kashipur-Belgachhia,8,SHREE NARAYAN TANDON,Independent,206,1,207,0.15
+168,Kashipur-Belgachhia,9,TAPAS GHOSH,Independent,206,0,206,0.15
+168,Kashipur-Belgachhia,10,NOTA,None of the Above,1564,13,1577,1.17
 169,Bally,1,DIPSITA DHAR,Communist Party of India  (Marxist),21924,116,22040,17.51
 169,Bally,2,BAISHALI DALMIYA,Bharatiya Janata Party,46992,118,47110,37.43
 169,Bally,3,RANA CHATTERJEE,All India Trinamool Congress,53223,124,53347,42.38
@@ -1634,12 +1634,12 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 184,Domjur,13,SUBHAS SANTRA,Independent,1712,0,1712,0.68
 184,Domjur,14,SUMANTA KAYAL,Independent,2855,0,2855,1.14
 184,Domjur,15,NOTA,None of the Above,2078,4,2082,0.83
-185,Uttarpara,1,KANCHAN MULLICK,All India Trinamool Congress,93334,0,93334,46.97
-185,Uttarpara,2,PRABIR KUMAR GHOSAL,Bharatiya Janata Party,57603,0,57603,28.99
-185,Uttarpara,3,RAJAT BANERJEE (BAPPA),Communist Party of India  (Marxist),42376,0,42376,21.33
-185,Uttarpara,4,SOURAV ROY,Communist Party of India  (Marxist-Leninist)  (Liberation),1217,0,1217,0.61
-185,Uttarpara,5,RANJAN MUKHERJEE,Independent,826,0,826,0.42
-185,Uttarpara,6,NOTA,None of the Above,3342,0,3342,1.68
+185,Uttarpara,1,KANCHAN MULLICK,All India Trinamool Congress,93334,544,93878,46.96
+185,Uttarpara,2,PRABIR KUMAR GHOSAL,Bharatiya Janata Party,57603,286,57889,28.96
+185,Uttarpara,3,RAJAT BANERJEE (BAPPA),Communist Party of India  (Marxist),42376,342,42718,21.37
+185,Uttarpara,4,SOURAV ROY,Communist Party of India  (Marxist-Leninist)  (Liberation),1217,6,1223,0.61
+185,Uttarpara,5,RANJAN MUKHERJEE,Independent,826,7,833,0.42
+185,Uttarpara,6,NOTA,None of the Above,3342,11,3353,1.68
 186,Sreerampur,1,ALOK RANJAN BANERJEE,Indian National Congress,19223,178,19401,10.32
 186,Sreerampur,2,KABIR SHANKAR BOSE,Bharatiya Janata Party,69241,347,69588,37
 186,Sreerampur,3,DR. SUDIPTO ROY,All India Trinamool Congress,92435,586,93021,49.46
@@ -1661,15 +1661,15 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 188,Singur,3,SRIJAN BHATTACHARYYA,Communist Party of India  (Marxist),29639,377,30016,14.3
 188,Singur,4,SHANKAR JANA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1339,7,1346,0.64
 188,Singur,5,NOTA,None of the Above,2335,10,2345,1.12
-189,Chandannagar,1,INDRANIL SEN,All India Trinamool Congress,31765,0,31765,47.75
-189,Chandannagar,2,GAUTAM SARKAR,Communist Party of India  (Marxist),13600,0,13600,20.44
-189,Chandannagar,3,DEEPANJAN KUMAR GUHA,Bharatiya Janata Party,18851,0,18851,28.33
-189,Chandannagar,4,UDAY VEER CHOUDHURY,Independent,171,0,171,0.26
-189,Chandannagar,5,TANDRA BHATTACHARJEE (TANDRADI),Independent,125,0,125,0.19
-189,Chandannagar,6,PRALOY MUKHERJEE,Independent,115,0,115,0.17
-189,Chandannagar,7,RATAN KUMAR CHATTERJEE (R.K.C),Independent,465,0,465,0.7
-189,Chandannagar,8,SUBRATA DEY,Independent,195,0,195,0.29
-189,Chandannagar,9,NOTA,None of the Above,1243,0,1243,1.87
+189,Chandannagar,1,INDRANIL SEN,All India Trinamool Congress,85604,1174,86778,47.63
+189,Chandannagar,2,GAUTAM SARKAR,Communist Party of India  (Marxist),33071,631,33702,18.5
+189,Chandannagar,3,DEEPANJAN KUMAR GUHA,Bharatiya Janata Party,55275,474,55749,30.6
+189,Chandannagar,4,UDAY VEER CHOUDHURY,Independent,532,6,538,0.3
+189,Chandannagar,5,TANDRA BHATTACHARJEE (TANDRADI),Independent,352,13,365,0.2
+189,Chandannagar,6,PRALOY MUKHERJEE,Independent,304,3,307,0.17
+189,Chandannagar,7,RATAN KUMAR CHATTERJEE (R.K.C),Independent,1179,5,1184,0.65
+189,Chandannagar,8,SUBRATA DEY,Independent,531,1,532,0.29
+189,Chandannagar,9,NOTA,None of the Above,3000,23,3023,1.66
 190,Chunchura,1,Asit Mazumder (Tapan),All India Trinamool Congress,115802,1302,117104,45.97
 190,Chunchura,2,Goutam Mondal,Bahujan Samaj Party,1306,22,1328,0.52
 190,Chunchura,3,PRANAB KUMAR GHOSH,All India Forward Bloc,28397,380,28777,11.3
@@ -1733,21 +1733,21 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 198,Tarakeswar,4,Sanju Chakraborty,Republican Party of India (Athawale),1690,7,1697,0.82
 198,Tarakeswar,5,Sukumar Khanra,Independent,954,7,961,0.47
 198,Tarakeswar,6,NOTA,None of the Above,2740,12,2752,1.34
-199,Pursurah,1,DILIP YADAV,All India Trinamool Congress,76751,0,76751,41.67
-199,Pursurah,2,BIMAN GHOSH,Bharatiya Janata Party,97195,0,97195,52.77
-199,Pursurah,3,MONIKA MALIK GHOSH,Indian National Congress,6339,0,6339,3.44
-199,Pursurah,4,CHIRANJIT BARIK,Independent,1597,0,1597,0.87
-199,Pursurah,5,NOTA,None of the Above,2303,0,2303,1.25
+199,Pursurah,1,DILIP YADAV,All India Trinamool Congress,90505,651,91156,40.86
+199,Pursurah,2,BIMAN GHOSH,Bharatiya Janata Party,118607,727,119334,53.5
+199,Pursurah,3,MONIKA MALIK GHOSH,Indian National Congress,7733,95,7828,3.51
+199,Pursurah,4,CHIRANJIT BARIK,Independent,1952,16,1968,0.88
+199,Pursurah,5,NOTA,None of the Above,2776,12,2788,1.25
 200,Arambag,1,BANKIM CHANDRA SANTRA,Bahujan Samaj Party,2761,19,2780,1.26
 200,Arambag,2,MADHUSUDAN BAG,Bharatiya Janata Party,102518,590,103108,46.88
 200,Arambag,3,SAKTI MOHON MALIK,Communist Party of India  (Marxist),14841,124,14965,6.8
 200,Arambag,4,SUJATA MONDAL,All India Trinamool Congress,95332,604,95936,43.62
 200,Arambag,5,NOTA,None of the Above,3163,8,3171,1.44
-201,Goghat,1,BISWANATH KARAK,Bharatiya Janata Party,44434,0,44434,46.35
-201,Goghat,2,MANAS MAJUMDAR,All India Trinamool Congress,41048,0,41048,42.82
-201,Goghat,3,SHIBA PRASAD MALICK,All India Forward Bloc,8097,0,8097,8.45
-201,Goghat,4,SAMIR ROY,Bahujan Samaj Party,1122,0,1122,1.17
-201,Goghat,5,NOTA,None of the Above,1157,0,1157,1.21
+201,Goghat,1,BISWANATH KARAK,Bharatiya Janata Party,101743,484,102227,46.56
+201,Goghat,2,MANAS MAJUMDAR,All India Trinamool Congress,97523,557,98080,44.67
+201,Goghat,3,SHIBA PRASAD MALICK,All India Forward Bloc,14288,90,14378,6.55
+201,Goghat,4,SAMIR ROY,Bahujan Samaj Party,2364,14,2378,1.08
+201,Goghat,5,NOTA,None of the Above,2472,10,2482,1.13
 202,Khanakul,1,MUNSI NAZBUL KARIM,All India Trinamool Congress,94067,452,94519,43.36
 202,Khanakul,2,SUSANTA GHOSH,Bharatiya Janata Party,106819,584,107403,49.27
 202,Khanakul,3,FAISAL KHAN,Rashtriya Secular Majlis Party,8666,66,8732,4.01
@@ -1778,20 +1778,20 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 205,Panskura Paschim,5,SUNIL KUMAR JANA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1230,9,1239,0.53
 205,Panskura Paschim,6,NARAYAN KINKAR MISHRA,Independent,1101,2,1103,0.47
 205,Panskura Paschim,7,NOTA,None of the Above,1331,6,1337,0.57
-206,Moyna,1,Ashoke Dinda,Bharatiya Janata Party,99036,0,99036,48.19
-206,Moyna,2,Kamal Bag,Bahujan Samaj Party,705,0,705,0.34
-206,Moyna,3,Manik Bhaumik,Indian National Congress,4875,0,4875,2.37
-206,Moyna,4,Sangram Kumar Dolai,All India Trinamool Congress,97598,0,97598,47.49
-206,Moyna,5,Subrata Bag,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1484,0,1484,0.72
-206,Moyna,6,Biplab Barai,Independent,214,0,214,0.1
-206,Moyna,7,Mahammad Ali Sk,Independent,335,0,335,0.16
-206,Moyna,8,NOTA,None of the Above,1253,0,1253,0.61
-207,Nandakumar,1,ADHIKARY NILANJAN,Bharatiya Janata Party,70066,0,70066,44.63
-207,Nandakumar,2,KARUNA SANKAR BHOWMIK,Communist Party of India  (Marxist),8368,0,8368,5.33
-207,Nandakumar,3,SUKUMAR DE,All India Trinamool Congress,76083,0,76083,48.46
-207,Nandakumar,4,Saumitra Pattanayak,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),971,0,971,0.62
-207,Nandakumar,5,Marphat Ali Khan,Independent,478,0,478,0.3
-207,Nandakumar,6,NOTA,None of the Above,1028,0,1028,0.65
+206,Moyna,1,Ashoke Dinda,Bharatiya Janata Party,107054,1055,108109,48.17
+206,Moyna,2,Kamal Bag,Bahujan Samaj Party,761,5,766,0.34
+206,Moyna,3,Manik Bhaumik,Indian National Congress,5030,78,5108,2.28
+206,Moyna,4,Sangram Kumar Dolai,All India Trinamool Congress,106027,822,106849,47.61
+206,Moyna,5,Subrata Bag,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1658,16,1674,0.75
+206,Moyna,6,Biplab Barai,Independent,232,0,232,0.1
+206,Moyna,7,Mahammad Ali Sk,Independent,360,1,361,0.16
+206,Moyna,8,NOTA,None of the Above,1324,11,1335,0.59
+207,Nandakumar,1,ADHIKARY NILANJAN,Bharatiya Janata Party,102106,669,102775,45.22
+207,Nandakumar,2,KARUNA SANKAR BHOWMIK,Communist Party of India  (Marxist),12651,131,12782,5.62
+207,Nandakumar,3,SUKUMAR DE,All India Trinamool Congress,107330,851,108181,47.6
+207,Nandakumar,4,Saumitra Pattanayak,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1341,8,1349,0.59
+207,Nandakumar,5,Marphat Ali Khan,Independent,711,4,715,0.31
+207,Nandakumar,6,NOTA,None of the Above,1471,2,1473,0.65
 208,Mahishadal,1,TILAK KUMAR CHAKRABORTY,All India Trinamool Congress,100768,1218,101986,46.49
 208,Mahishadal,2,BISWANATH BANERJEE,Bharatiya Janata Party,98635,965,99600,45.41
 208,Mahishadal,3,TAPAN KUMAR MAITY,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),969,13,982,0.45
@@ -1805,37 +1805,37 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 209,Haldia,4,Swapan Naskar,All India Trinamool Congress,88663,455,89118,40.36
 209,Haldia,5,Narayan Pramanik,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1548,8,1556,0.7
 209,Haldia,6,NOTA,None of the Above,1408,5,1413,0.64
-210,Nandigram,1,ADHIKARI SUVENDU,Bharatiya Janata Party,102751,0,102751,47.83
-210,Nandigram,2,Mamata Banerjee,All India Trinamool Congress,103571,0,103571,48.21
-210,Nandigram,3,Minakshi Mukherjee,Communist Party of India  (Marxist),6094,0,6094,2.84
-210,Nandigram,4,MANOJ KUMAR DAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),215,0,215,0.1
-210,Nandigram,5,Dipak Kumar Gayen,Independent,71,0,71,0.03
-210,Nandigram,6,Subrata Bose,Independent,68,0,68,0.03
-210,Nandigram,7,Sk Saddam Hossain,Independent,295,0,295,0.14
-210,Nandigram,8,Swapan Parua,Independent,734,0,734,0.34
-210,Nandigram,9,NOTA,None of the Above,1026,0,1026,0.48
-211,Chandipur,1,Ashis Kumar Guchhait,Communist Party of India  (Marxist),9708,0,9708,4.43
-211,Chandipur,2,Pulak Kanti Guria,Bharatiya Janata Party,95695,0,95695,43.7
-211,Chandipur,3,Biswanath Ghorai,Bahujan Samaj Party,1253,0,1253,0.57
-211,Chandipur,4,Soham Chakraborty,All India Trinamool Congress,109193,0,109193,49.86
+210,Nandigram,1,ADHIKARI SUVENDU,Bharatiya Janata Party,109673,1091,110764,48.49
+210,Nandigram,2,Mamata Banerjee,All India Trinamool Congress,107937,871,108808,47.64
+210,Nandigram,3,Minakshi Mukherjee,Communist Party of India  (Marxist),6198,69,6267,2.74
+210,Nandigram,4,MANOJ KUMAR DAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),235,5,240,0.11
+210,Nandigram,5,Dipak Kumar Gayen,Independent,74,0,74,0.03
+210,Nandigram,6,Subrata Bose,Independent,72,1,73,0.03
+210,Nandigram,7,Sk Saddam Hossain,Independent,310,3,313,0.14
+210,Nandigram,8,Swapan Parua,Independent,773,3,776,0.34
+210,Nandigram,9,NOTA,None of the Above,1089,1,1090,0.48
+211,Chandipur,1,Ashis Kumar Guchhait,Communist Party of India  (Marxist),9708,129,9837,4.46
+211,Chandipur,2,Pulak Kanti Guria,Bharatiya Janata Party,95695,603,96298,43.71
+211,Chandipur,3,Biswanath Ghorai,Bahujan Samaj Party,1253,1,1254,0.57
+211,Chandipur,4,Soham Chakraborty,All India Trinamool Congress,109193,577,109770,49.82
 211,Chandipur,5,Bikash Chandra Das,West Bengal Socialist Party,1365,0,1365,0.62
-211,Chandipur,6,Swapan Kumar Bhowmik,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),470,0,470,0.21
-211,Chandipur,7,Arup Kumar Sahoo,Independent,589,0,589,0.27
-211,Chandipur,8,NOTA,None of the Above,726,0,726,0.33
+211,Chandipur,6,Swapan Kumar Bhowmik,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),470,5,475,0.22
+211,Chandipur,7,Arup Kumar Sahoo,Independent,589,3,592,0.27
+211,Chandipur,8,NOTA,None of the Above,726,10,736,0.33
 212,Patashpur,1,AMBUJAKSHA MAHANTI,Bharatiya Janata Party,94402,903,95305,45.64
 212,Patashpur,2,UTTAM BARIK,All India Trinamool Congress,104268,1031,105299,50.42
 212,Patashpur,3,SAIKAT GIRI,Communist Party of India,6525,106,6631,3.18
 212,Patashpur,4,SURJYENDU BIKASH PATRA,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),721,10,731,0.35
 212,Patashpur,5,NOTA,None of the Above,856,5,861,0.41
-213,Kanthi Uttar,1,TARUN KUMAR JANA,All India Trinamool Congress,97346,0,97346,46.15
-213,Kanthi Uttar,2,SUTANU MAITY,Communist Party of India  (Marxist),6080,0,6080,2.88
-213,Kanthi Uttar,3,SUMITA SINHA,Bharatiya Janata Party,103681,0,103681,49.15
-213,Kanthi Uttar,4,PANCHANAN DAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),730,0,730,0.35
-213,Kanthi Uttar,5,BISWANATH DAS,Indian Unity Centre,181,0,181,0.09
-213,Kanthi Uttar,6,DEBASIS DAS,Independent,188,0,188,0.09
-213,Kanthi Uttar,7,PRABIR MISHRA,Independent,769,0,769,0.36
-213,Kanthi Uttar,8,LIRIKA MUKTAR,Independent,601,0,601,0.28
-213,Kanthi Uttar,9,NOTA,None of the Above,1374,0,1374,0.65
+213,Kanthi Uttar,1,TARUN KUMAR JANA,All India Trinamool Congress,103116,1078,104194,45.62
+213,Kanthi Uttar,2,SUTANU MAITY,Communist Party of India  (Marxist),6432,72,6504,2.85
+213,Kanthi Uttar,3,SUMITA SINHA,Bharatiya Janata Party,112677,847,113524,49.7
+213,Kanthi Uttar,4,PANCHANAN DAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),767,6,773,0.34
+213,Kanthi Uttar,5,BISWANATH DAS,Indian Unity Centre,198,0,198,0.09
+213,Kanthi Uttar,6,DEBASIS DAS,Independent,213,0,213,0.09
+213,Kanthi Uttar,7,PRABIR MISHRA,Independent,864,2,866,0.38
+213,Kanthi Uttar,8,LIRIKA MUKTAR,Independent,649,3,652,0.29
+213,Kanthi Uttar,9,NOTA,None of the Above,1486,6,1492,0.65
 214,Bhagabanpur,1,ARDHENDU MAITY,All India Trinamool Congress,93228,703,93931,42.19
 214,Bhagabanpur,2,RABINDRANATH MAITY,Bharatiya Janata Party,120633,847,121480,54.56
 214,Bhagabanpur,3,SHIU MAITI,Indian National Congress,5192,82,5274,2.37
@@ -1851,12 +1851,12 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 216,Kanthi Dakshin,3,JYOTIRMOY KAR,All India Trinamool Congress,87257,927,88184,45.3
 216,Kanthi Dakshin,4,SHRABANI PAHARI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1130,6,1136,0.58
 216,Kanthi Dakshin,5,NOTA,None of the Above,863,7,870,0.45
-217,Ramnagar,1,AKHIL GIRI,All India Trinamool Congress,81506,0,81506,50.05
-217,Ramnagar,2,SABYASACHI JANA,Communist Party of India  (Marxist),4665,0,4665,2.86
-217,Ramnagar,3,SWADESH RANJAN NAYAK,Bharatiya Janata Party,74781,0,74781,45.92
-217,Ramnagar,4,ARATI PAHARI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),698,0,698,0.43
-217,Ramnagar,5,TRAYEE PRADHAN,Right to Recall Party,275,0,275,0.17
-217,Ramnagar,6,NOTA,None of the Above,920,0,920,0.56
+217,Ramnagar,1,AKHIL GIRI,All India Trinamool Congress,111870,752,112622,50.72
+217,Ramnagar,2,SABYASACHI JANA,Communist Party of India  (Marxist),6657,94,6751,3.04
+217,Ramnagar,3,SWADESH RANJAN NAYAK,Bharatiya Janata Party,99477,628,100105,45.08
+217,Ramnagar,4,ARATI PAHARI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),942,2,944,0.43
+217,Ramnagar,5,TRAYEE PRADHAN,Right to Recall Party,399,6,405,0.18
+217,Ramnagar,6,NOTA,None of the Above,1230,3,1233,0.56
 218,Egra,1,ARUP DASH,Bharatiya Janata Party,106357,915,107272,44.55
 218,Egra,2,TARUN KUMAR MAITY,All India Trinamool Congress,124805,958,125763,52.22
 218,Egra,3,MANAS KUMAR KARMAHAPATRA,Indian National Congress,4997,89,5086,2.11
@@ -2013,17 +2013,17 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 240,Baghmundi,5,Pashupati Mahato,Amra Bangalee,1992,8,2000,0.97
 240,Baghmundi,6,Mrityunjoy Singh Babu,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1182,6,1188,0.58
 240,Baghmundi,7,NOTA,None of the Above,2375,11,2386,1.16
-241,Joypur,1,Dhirendra Nath Mahato,All India Forward Bloc,18728,0,18728,9.81
-241,Joypur,2,Nara Hari Mahato,Bharatiya Janata Party,68919,0,68919,36.1
-241,Joypur,3,Phanibhushan Kumar,Indian National Congress,57993,0,57993,30.38
-241,Joypur,4,Jawahar Lal Mahato,Mulnibasi Party of India,2002,0,2002,1.05
-241,Joypur,5,Tirthanath Mahata,Akhil Bharat Hindu Mahasabha,580,0,580,0.3
-241,Joypur,6,Bhagirath Mahato,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1027,0,1027,0.54
-241,Joypur,7,Dibyajoti Singh Deo,Independent,34485,0,34485,18.07
-241,Joypur,8,Nageswar Mahato,Independent,1368,0,1368,0.72
-241,Joypur,9,Nepal Chandra Mahato,Independent,1838,0,1838,0.96
-241,Joypur,10,Bahadur Kushbaha Kuiri,Independent,1123,0,1123,0.59
-241,Joypur,11,NOTA,None of the Above,2830,0,2830,1.48
+241,Joypur,1,Dhirendra Nath Mahato,All India Forward Bloc,19200,213,19413,9.57
+241,Joypur,2,Nara Hari Mahato,Bharatiya Janata Party,73713,667,74380,36.68
+241,Joypur,3,Phanibhushan Kumar,Indian National Congress,61611,569,62180,30.67
+241,Joypur,4,Jawahar Lal Mahato,Mulnibasi Party of India,2086,16,2102,1.04
+241,Joypur,5,Tirthanath Mahata,Akhil Bharat Hindu Mahasabha,606,7,613,0.3
+241,Joypur,6,Bhagirath Mahato,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1121,5,1126,0.56
+241,Joypur,7,Dibyajoti Singh Deo,Independent,35281,148,35429,17.47
+241,Joypur,8,Nageswar Mahato,Independent,1405,14,1419,0.7
+241,Joypur,9,Nepal Chandra Mahato,Independent,1928,52,1980,0.98
+241,Joypur,10,Bahadur Kushbaha Kuiri,Independent,1162,7,1169,0.58
+241,Joypur,11,NOTA,None of the Above,2944,12,2956,1.46
 242,Purulia,1,PARTHA PRATIM BANERJEE,Indian National Congress,24736,260,24996,12.08
 242,Purulia,2,Manas Sardar,Bahujan Samaj Party,1032,2,1034,0.5
 242,Purulia,3,Sujoy Banerjee,All India Trinamool Congress,82134,581,82715,39.98
@@ -2182,12 +2182,12 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 262,Jamalpur,5,KARTIK KSHETRAPAL,Bahujan Mukti Party,1285,6,1291,0.62
 262,Jamalpur,6,TARUN KANTI MAJHI,Communist Party of India  (Marxist-Leninist)  (Liberation),1182,3,1185,0.57
 262,Jamalpur,7,NOTA,None of the Above,2859,6,2865,1.39
-263,Monteswar,1,ANUPAM GHOSH,Communist Party of India  (Marxist),17657,0,17657,11.66
-263,Monteswar,2,CHOWDHURY SIDDIQULLAH,All India Trinamool Congress,79559,0,79559,52.54
-263,Monteswar,3,SAIKAT PANJA,Bharatiya Janata Party,50586,0,50586,33.41
-263,Monteswar,4,ANSARUL AMAN MONDAL (BABU),Communist Party of India  (Marxist-Leninist)  (Liberation),1298,0,1298,0.86
-263,Monteswar,5,NASIMUL GANI SAYED,Party for Democratic Socialism,1237,0,1237,0.82
-263,Monteswar,6,NOTA,None of the Above,1091,0,1091,0.72
+263,Monteswar,1,ANUPAM GHOSH,Communist Party of India  (Marxist),24628,112,24740,11.84
+263,Monteswar,2,CHOWDHURY SIDDIQULLAH,All India Trinamool Congress,104904,556,105460,50.45
+263,Monteswar,3,SAIKAT PANJA,Bharatiya Janata Party,73323,332,73655,35.24
+263,Monteswar,4,ANSARUL AMAN MONDAL (BABU),Communist Party of India  (Marxist-Leninist)  (Liberation),1873,4,1877,0.9
+263,Monteswar,5,NASIMUL GANI SAYED,Party for Democratic Socialism,1691,2,1693,0.81
+263,Monteswar,6,NOTA,None of the Above,1604,7,1611,0.77
 264,Kalna,1,DEBOPRASAD BAG (POLTU),All India Trinamool Congress,95704,369,96073,45.98
 264,Kalna,2,NIRAB KHAN,Communist Party of India  (Marxist),18905,100,19005,9.1
 264,Kalna,3,BISWAJIT KUNDU,Bharatiya Janata Party,88305,290,88595,42.4
@@ -2257,15 +2257,15 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 274,Galsi,3,BIKASH BISWAS,Bharatiya Janata Party,89907,335,90242,40.55
 274,Galsi,4,SANDIP SARKAR,Bahujan Samaj Party,3511,7,3518,1.58
 274,Galsi,5,NOTA,None of the Above,2247,7,2254,1.01
-275,Pandabeswar,1,KUMAR JITENDRA  TEWARI,Bharatiya Janata Party,66199,0,66199,42.9
-275,Pandabeswar,2,NARENDRANATH CHAKRABORTY,All India Trinamool Congress,69381,0,69381,44.96
-275,Pandabeswar,3,RAKESH KUMAR DAS,Bahujan Samaj Party,1073,0,1073,0.7
-275,Pandabeswar,4,SUBHAS BAURI,Communist Party of India  (Marxist),11058,0,11058,7.17
-275,Pandabeswar,5,ATUL CHANDRA BAURI,Bahujan Mukti Party,738,0,738,0.48
-275,Pandabeswar,6,DANA GOSWAMI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),610,0,610,0.4
-275,Pandabeswar,7,PRADIP KUMAR PODDAR,Independent,488,0,488,0.32
-275,Pandabeswar,8,SANJAY YADAV,Independent,2170,0,2170,1.41
-275,Pandabeswar,9,NOTA,None of the Above,2588,0,2588,1.68
+275,Pandabeswar,1,KUMAR JITENDRA  TEWARI,Bharatiya Janata Party,69665,454,70119,42.68
+275,Pandabeswar,2,NARENDRANATH CHAKRABORTY,All India Trinamool Congress,73015,907,73922,44.99
+275,Pandabeswar,3,RAKESH KUMAR DAS,Bahujan Samaj Party,1134,3,1137,0.69
+275,Pandabeswar,4,SUBHAS BAURI,Communist Party of India  (Marxist),12084,112,12196,7.42
+275,Pandabeswar,5,ATUL CHANDRA BAURI,Bahujan Mukti Party,761,5,766,0.47
+275,Pandabeswar,6,DANA GOSWAMI,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),629,6,635,0.39
+275,Pandabeswar,7,PRADIP KUMAR PODDAR,Independent,506,2,508,0.31
+275,Pandabeswar,8,SANJAY YADAV,Independent,2270,3,2273,1.38
+275,Pandabeswar,9,NOTA,None of the Above,2727,8,2735,1.66
 276,Durgapur Purba,1,ABHAS RAY CHAUDHURI,Communist Party of India  (Marxist),28719,344,29063,15.08
 276,Durgapur Purba,2,COLONEL DIPTANSU CHAUDHURY,Bharatiya Janata Party,75000,557,75557,39.21
 276,Durgapur Purba,3,PRADIP MAZUMDAR,All India Trinamool Congress,78457,846,79303,41.16
@@ -2316,13 +2316,13 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 281,Asansol Uttar,6,Nani Gopal Dawn,Independent,634,5,639,0.33
 281,Asansol Uttar,7,Sunil Thakur,Independent,1667,6,1673,0.87
 281,Asansol Uttar,8,NOTA,None of the Above,3321,27,3348,1.74
-282,Kulti,1,AJAY  KUMAR PODDAR,Bharatiya Janata Party,71054,0,71054,46.99
-282,Kulti,2,UJJAL CHATTERJEE,All India Trinamool Congress,69254,0,69254,45.8
-282,Kulti,3,CHANDI DAS CHATTERJEE,Indian National Congress,4496,0,4496,2.97
-282,Kulti,4,BAPI KUMAR RABIDAS,Bahujan Samaj Party,901,0,901,0.6
-282,Kulti,5,ARUN RAJAK,Bahujan Mukti Party,697,0,697,0.46
-282,Kulti,6,SURAJ KEWAT,Independent,1714,0,1714,1.13
-282,Kulti,7,NOTA,None of the Above,3096,0,3096,2.05
+282,Kulti,1,AJAY  KUMAR PODDAR,Bharatiya Janata Party,80733,379,81112,46.41
+282,Kulti,2,UJJAL CHATTERJEE,All India Trinamool Congress,79933,500,80433,46.02
+282,Kulti,3,CHANDI DAS CHATTERJEE,Indian National Congress,5738,57,5795,3.32
+282,Kulti,4,BAPI KUMAR RABIDAS,Bahujan Samaj Party,1041,6,1047,0.6
+282,Kulti,5,ARUN RAJAK,Bahujan Mukti Party,822,2,824,0.47
+282,Kulti,6,SURAJ KEWAT,Independent,2002,1,2003,1.15
+282,Kulti,7,NOTA,None of the Above,3541,12,3553,2.03
 283,Barabani,1,ARIJIT ROY,Bharatiya Janata Party,64477,496,64973,38.4
 283,Barabani,2,BIDHAN UPADHYAY,All India Trinamool Congress,87251,1179,88430,52.26
 283,Barabani,3,RANENDRA NATH BAGCHI,Indian National Congress,8764,198,8962,5.3
@@ -2353,11 +2353,11 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 286,Bolpur,8,SK SIRAJUL HOQUE,Mulnibasi Party of India,623,3,626,0.27
 286,Bolpur,9,SONA MURMU,Bahujan Mukti Party,699,3,702,0.3
 286,Bolpur,10,NOTA,None of the Above,3316,21,3337,1.45
-287,Nanoor,1,CHANDIPADA DAS,Bahujan Samaj Party,2729,0,2729,1.17
-287,Nanoor,2,TARAKESWAR SAHA,Bharatiya Janata Party,104323,0,104323,44.84
-287,Nanoor,3,BIDHAN CHANDRA MAJHI,All India Trinamool Congress,110764,0,110764,47.6
-287,Nanoor,4,SHYAMALI PRADHAN,Communist Party of India  (Marxist),12731,0,12731,5.47
-287,Nanoor,5,NOTA,None of the Above,2134,0,2134,0.92
+287,Nanoor,1,CHANDIPADA DAS,Bahujan Samaj Party,2729,10,2739,1.16
+287,Nanoor,2,TARAKESWAR SAHA,Bharatiya Janata Party,104323,1123,105446,44.81
+287,Nanoor,3,BIDHAN CHANDRA MAJHI,All India Trinamool Congress,110764,1352,112116,47.64
+287,Nanoor,4,SHYAMALI PRADHAN,Communist Party of India  (Marxist),12731,147,12878,5.47
+287,Nanoor,5,NOTA,None of the Above,2134,15,2149,0.91
 288,Labhpur,1,ABHIJIT SINHA (RANA),All India Trinamool Congress,107089,1334,108423,51.14
 288,Labhpur,2,BISWAJIT MONDAL,Bharatiya Janata Party,89390,1058,90448,42.66
 288,Labhpur,3,MURMU SUNIL,Bahujan Samaj Party,915,7,922,0.43
@@ -2372,18 +2372,18 @@ cid,cname,O.S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,PctVotes
 289,Sainthia,4,MAUSUMI KONAI,Communist Party of India  (Marxist),10239,130,10369,4.67
 289,Sainthia,5,NABA KUMAR DAS,SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),1751,5,1756,0.79
 289,Sainthia,6,NOTA,None of the Above,1727,15,1742,0.79
-290,Mayureswar,1,ABHIJIT ROY,All India Trinamool Congress,84289,0,84289,51.82
-290,Mayureswar,2,GOPAL SARKAR,Bahujan Samaj Party,1908,0,1908,1.17
-290,Mayureswar,3,Shyamapada Mondal,Bharatiya Janata Party,69100,0,69100,42.48
-290,Mayureswar,4,KASHINATH PAL,Rashtriya Secular Majlis Party,5030,0,5030,3.09
-290,Mayureswar,5,NOTA,None of the Above,2323,0,2323,1.43
-291,Rampurhat,1,ASISH BANERJEE,All India Trinamool Congress,88745,0,88745,45.37
-291,Rampurhat,2,BIPAD TARAN DOM,Bahujan Samaj Party,1449,0,1449,0.74
-291,Rampurhat,3,SUBHASIS CHOUDHURY (KHOKAN),Bharatiya Janata Party,89552,0,89552,45.78
-291,Rampurhat,4,SANJIB BARMAN (GOPI),Communist Party of India  (Marxist),10442,0,10442,5.34
-291,Rampurhat,5,IBANE RASUL (ANGUR MIYA),Bahujan Maha Party,1516,0,1516,0.78
-291,Rampurhat,6,FORIDA YASMIN (KEYA),SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),861,0,861,0.44
-291,Rampurhat,7,NOTA,None of the Above,3038,0,3038,1.55
+290,Mayureswar,1,ABHIJIT ROY,All India Trinamool Congress,99378,1047,100425,50.36
+290,Mayureswar,2,GOPAL SARKAR,Bahujan Samaj Party,2259,26,2285,1.15
+290,Mayureswar,3,Shyamapada Mondal,Bharatiya Janata Party,87149,1201,88350,44.3
+290,Mayureswar,4,KASHINATH PAL,Rashtriya Secular Majlis Party,5492,70,5562,2.79
+290,Mayureswar,5,NOTA,None of the Above,2777,26,2803,1.41
+291,Rampurhat,1,ASISH BANERJEE,All India Trinamool Congress,102251,1025,103276,47.52
+291,Rampurhat,2,BIPAD TARAN DOM,Bahujan Samaj Party,1587,0,1587,0.73
+291,Rampurhat,3,SUBHASIS CHOUDHURY (KHOKAN),Bharatiya Janata Party,93574,1230,94804,43.62
+291,Rampurhat,4,SANJIB BARMAN (GOPI),Communist Party of India  (Marxist),11578,129,11707,5.39
+291,Rampurhat,5,IBANE RASUL (ANGUR MIYA),Bahujan Maha Party,1607,1,1608,0.74
+291,Rampurhat,6,FORIDA YASMIN (KEYA),SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),956,4,960,0.44
+291,Rampurhat,7,NOTA,None of the Above,3369,12,3381,1.56
 292,Hansan,1,Dr. ASOK KUMAR CHATTOPADHYAY,All India Trinamool Congress,107429,860,108289,51.42
 292,Hansan,2,NIKHIL BANERJEE,Bharatiya Janata Party,57123,553,57676,27.39
 292,Hansan,3,MILTAN RASID,Indian National Congress,39424,391,39815,18.9
